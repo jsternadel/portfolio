@@ -1,7 +1,9 @@
+<!--
 ---
 layout: default
 title: '{$js-portfolio}'
 ---
+-->
 
 # Joshua Sternadel
 ## System Architecture & Business Alignment

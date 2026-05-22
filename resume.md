@@ -1,3 +1,7 @@
+---
+title: "Joshua Sternadel - Systems Architecture & Engineering Resume"
+---
+
 # Joshua Sternadel
 ### Pattern Seeking Whimsical Chaos Engineer
 **Kansas City, MO | js.sternadel@gmail.com | 785-331-8327**
