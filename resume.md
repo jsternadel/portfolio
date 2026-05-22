@@ -1,0 +1,87 @@
+# Joshua Sternadel
+### Pattern Seeking Whimsical Chaos Engineer
+**Kansas City, MO | js.sternadel@gmail.com | 785-331-8327**
+
+# SYSTEM ARCHITECTURE & BUSINESS ALIGNMENT
+
+A non-traditional engineer who leverages a background in artistic creativity to approach technical architecture without the bias of "industry-standard" stagnation. Applies spatial thinking, pattern recognition, and deep-infrastructure logic to solve complex structural problems that traditional engineering teams struggle to resolve. A self-directed technical anchor focused on building clean, frictionless distributed systems that prioritize radical automation, continuous compliance, and mission-critical stability.
+
+### Core Competencies
+Team Leadership | Systems Architecture | Solutions Engineering | Efficiency and Productivity Specialist
+
+### Technical Skills
+Java | C# | Redhat | Node.js | TypeScript | Angular | Ansible | DevOps | Automation
+
+### Key Achievements
+*   **Strategic Retention & Continuity:** Awarded a significant retention bonus during the Sprint/T-Mobile merger, designated as mission-critical personnel to ensure technical stability and architectural integration during the corporate transition.
+*   **U.S. Patent Author (#10,366,066):** Co-authored a patent for database management systems, specifically engineering a natural sorting algorithm in SQL to optimize data retrieval and user experience.
+*   **Infrastructure Transformation:** Orchestrated a full-scale migration from legacy physical servers to a redundant VMware-based virtual infrastructure, reducing enterprise downtime by over 90% and cutting operational payroll costs by 18%.
+*   **Algorithmic Solutions:** Engineered a first-principles solution to resolve GPS signal noise and "teleportation" errors for intermodal logistics. By deciphering raw NMEA 0183 sentences and applying spherical geometry with rate-of-acceleration modeling, successfully stabilized coordinate paths and eliminated tracking jitter within high-interference rail yards.
+
+### Professional Experience
+
+#### T-MOBILE (Formerly Sprint) | Overland Park, KS (2013 – 2026)
+
+**Senior Software Engineer | Acting Solutions Architect & DevOps Engineer** (2020 – 2026)
+*Embedded within Tools Team to assist with architectural duties and build APIs that connect proprietary systems to Atlassian and other vendors' products. Transitioned to DevOps role as the only true developer on the SysAdmin team.*
+
+*   **Enterprise Cloud Migration:** Architected and executed a high-integrity migration of a decade’s worth of metadata and complex workflows from Jira Data Center to Jira Cloud, ensuring zero data loss across mission-critical proprietary projects.
+*   **Ecosystem Integration & APIs:** Authored a specialized suite of Node.js libraries and Node-RED nodes to automate full-lifecycle project provisioning via Atlassian APIs, creating a "self-service" ecosystem for developers.
+*   **Infrastructure as Code (IaC):** Bridged the gap between Software Engineering and Systems Administration by implementing Infrastructure as Code (IaC) via Ansible, successfully reducing manual operational toil and human error.
+*   **DevSecOps & Automation:** Engineered automated vulnerability remediation workflows that drove lab data center security debt from 100+ monthly criticals to zero, achieving a state of continuous compliance.
+*   **Value Stream Optimization:** Optimized the VM lifecycle by automating the end-to-end onboarding process, significantly accelerating the "Lead Time to Deployment" for internal engineering teams.
+
+**Application Developer III | Acting Principal Software Engineer & Systems Architect** (2017 – 2020)
+*Acted as team leader and lead architect for the Workflow Automation Team.*
+
+*   **Architectural Leadership:** Directed the development of a "First Principles" replacement for legacy SKU management, delivering a high-performance solution in 6 months that outpaced a decade of failed initiatives by multiple cross-functional teams.
+*   **Distributed Systems:** Designed "Porcupine," a custom message bus system enabling real-time, asynchronous communication between disparate enterprise applications.
+*   **Framework Engineering:** Engineered a custom, data-agnostic PHP framework utilizing reflection and annotations to automate the CRUD lifecycle across disparate schemas (SQL, NoSQL, JSON, XML).
+*   **Data Abstraction & Hydration:** Developed a model-driven hydration engine that abstracted away storage-layer complexity, allowing for seamless state transitions between relational and non-relational data sources.
+*   **Scale & Adoption:** Prototyped and deployed the framework to internal high-value T-Mobile applications, proving a 10x reduction in "boilerplate" code for new service onboarding.
+*   **Site Reliability:** Owned and managed a complex 42-VM ecosystem, maintaining high availability and scalability for the Device and Technology Organization.
+*   **Intellectual Property:** Co-authored a U.S. Patent for a novel SQL data storage method, optimizing natural sorting algorithms for massive datasets.
+
+**Product Development Engineer II** (2013 – 2017)
+*Transitioned from device testing into application development through hybrid role bridging both disciplines.*
+
+*   **Full-Stack Application Architecture:** Engineered a specialized visual prototyping platform featuring a drag-and-drop grid system to simulate and design Out-of-Box Experiences (OOBE); integrated background profiling engines to capture real-time CPU, RAM, storage, and battery metrics alongside automated Play Store data scraping.
+*   **Database Engineering & Tooling:** Authored the foundational codebase for the Device Development and Certification requirements and test-plan database, laying the groundwork for scalable documentation and testing.
+*   **Cross-Functional Advisory:** Advised the Retail Department in weekly technical reviews, clarifying bugs, known issues, and system behaviors so teams could plan and prioritize work with greater accuracy.
+*   **Release Readiness & Prioritization:** Planned and prioritized weekly device onboarding for the Slate platform, improving visibility and accelerating readiness across teams.
+
+#### EXPERIS (Contractor at Sprint) | Overland Park, KS (2012 – 2013)
+**Technical Support Rep II**
+*Developed, tested, and troubleshot XML scripts for the SLATE platform, which retail stores use for automated device testing.*
+
+*   Wrote XML scripts for Slate automation testing of mobile devices.
+*   Worked with OEM partners, troubleshooting issues with the Slate Device Testing platform.
+
+#### MO-KAN CONTAINER SERVICES | Kansas City, KS (2011 – 2012)
+**System Administrator**
+
+*   Managed all technology operations across 3 onsite locations, keeping systems stable and responsive for daily business needs.
+*   Planned and executed a full network modernization, replacing aging G3 servers with a VMware-based virtual infrastructure and scalable iSCSI SAN.
+*   Cut IT downtime by more than 90% through a shift to virtualized, redundant systems.
+*   Reduced IT payroll costs by nearly 18% by upgrading infrastructure and implementing automated, failover-ready environments.
+
+### Additional Relevant Experience
+*   **Trucking Central** | Weston, MO | *Software Consultant (Contract)* – Planned, developed, and tested Android-based GPS solutions for the intermodal supply chain industry.
+*   **INNOVATIVE SOLUTIONS** | Lenexa, KS | *Mobile Solutions Technician* – Troubleshot and fixed Nextel devices for first responders and construction businesses, listened to client needs, and leveraged emerging technologies to find solutions for those needs.
+
+### Community Impact & Leadership
+
+**Seek and Serve** | *Technical Advisory Board Member* | 2026 – Present
+*   **Technical Guidance:** Provide high-level architectural oversight and logistical strategy to the parent 501(c)(3) organization.
+
+**33meals.org (Subsidiary)** | *Infrastructure Consultant / Volunteer* | 2026 – Present
+*   **Digital Architecture:** Structured the initial administrative setup, domain strategy, and deployment models to support charitable distribution.
+
+### Education
+*   **Associate of Arts (AA), Graphic Design** – Johnson County Community College, Overland Park, KS
+
+### CORE TECHNICAL INDEX (Verified Hands-On Competency)
+
+// @formatter:off
+TypeScript | Node.js | JavaScript | PHP | C# | .NET 8 | .NET Core | Java | Angular | Node-RED | Ansible | SQL | PostgreSQL | Jira API | Atlassian SDK | Systems Architecture | Microservices | Fluent API Design | API Gateway | Developer Experience (DevEx) | Platform Abstractions | DevOps | CI/CD | Infrastructure as Code (IaC) | Automation | DevSecOps | SRE | Distributed Systems | Spherical Geometry | Database Management (US Patent #10,366,066) | Agile | Scrum | The Phoenix Project/Unicorn Project Philosophies | Principal Software Engineer | Solutions Architect | Staff Systems Engineer | Platform Architect | Site Reliability Engineer
+// @formatter:on
