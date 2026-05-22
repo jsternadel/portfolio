@@ -68,19 +68,19 @@ System Administrator
 
 Additional Relevant Experience
 
--   Trucking Central | Weston, MO | Software Consultant (Contract) – Planned, developed, and tested Android-based GPS solutions for the intermodal supply chain industry.
--   INNOVATIVE SOLUTIONS | Lenexa, KS | Mobile Solutions Technician – Troubleshot and fixed Nextel devices for first responders and construction businesses, listened to client needs, and leveraged emerging technologies to find solutions for those needs.
+-   Trucking Central | Weston, MO | Software Consultant (Contract) Planned, developed, and tested Android-based GPS solutions for the intermodal supply chain industry.
+-   INNOVATIVE SOLUTIONS | Lenexa, KS | Mobile Solutions Technician Troubleshot and fixed Nextel devices for first responders and construction businesses, listened to client needs, and leveraged emerging technologies to find solutions for those needs.
 
 Community Impact & Leadership
 
-Seek and Serve | Technical Advisory Board Member | 2026 – Present * Technical Guidance: Provide high-level architectural oversight and logistical strategy to the parent 501(c)(3) organization.
+Seek and Serve | Technical Advisory Board Member | 2026 – Present - Technical Guidance: Provide high-level architectural oversight and logistical strategy to the parent 501(c)(3) organization.
 
-33meals.org (Subsidiary) | Infrastructure Consultant / Volunteer | 2026 – Present * Digital Architecture: Structured the initial administrative setup, domain strategy, and deployment models to support charitable distribution.
+33meals.org (Subsidiary) | Infrastructure Consultant / Volunteer | 2026 – Present - Organizational Launch: Spearheaded the launch and incorporation of 33meals.org as a dedicated subsidiary to address food insecurity through scalable, data-driven, distribution models. - Operational Infrastructure: Managed the full technical and administrative setup, including domain registration, digital architecture, and regulatory filings to ensure high-integrity non-profit operations. - Strategic Development: Designed a streamlined logistics model to optimize charitable food delivery, applying enterprise efficiency principles to humanitarian service.
 
 Education
 
--   Associate of Arts (AA), Graphic Design – Johnson County Community College, Overland Park, KS
+Associate of Arts (AA), Graphic Design – Johnson County Community College, Overland Park, KS
 
 CORE TECHNICAL INDEX (Verified Hands-On Competency)
 
-// @formatter:off TypeScript | Node.js | JavaScript | PHP | C# | .NET 8 | .NET Core | Java | Angular | Node-RED | Ansible | SQL | PostgreSQL | Jira API | Atlassian SDK | Systems Architecture | Microservices | Fluent API Design | API Gateway | Developer Experience (DevEx) | Platform Abstractions | DevOps | CI/CD | Infrastructure as Code (IaC) | Automation | DevSecOps | SRE | Distributed Systems | Spherical Geometry | Database Management (US Patent #10,366,066) | Agile | Scrum | The Phoenix Project/Unicorn Project Philosophies | Principal Software Engineer | Solutions Architect | Staff Systems Engineer | Platform Architect | Site Reliability Engineer // @formatter:on
+TypeScript | Node.js | JavaScript | PHP | C# | .NET 8 | .NET Core | Java | Angular | Node-RED | Ansible | SQL | PostgreSQL | Jira API | Atlassian SDK | Systems Architecture | Microservices | Fluent API Design | API Gateway | Developer Experience (DevEx) | Platform Abstractions | DevOps | CI/CD | Infrastructure as Code (IaC) | Automation | DevSecOps | SRE | Distributed Systems | Spherical Geometry | Database Management (US Patent #10,366,066) | Agile | Scrum | The Phoenix Project/Unicorn Project Philosophies | Principal Software Engineer | Solutions Architect | Staff Systems Engineer | Platform Architect | Site Reliability Engineer

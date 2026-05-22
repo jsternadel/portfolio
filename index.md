@@ -10,8 +10,8 @@ A non-traditional engineer who leverages a background in artistic creativity to 
 
 ### Navigation Hub
 *   [**Read Professional Resume**](./resume)
-*   [**Download PDF**](./joshua-sternadel.pdf)
-*   [**Download Plain Text**](./joshua-sternadel.txt)
+*   [**Download PDF**](./joshua-sternadel-resume.pdf)
+*   [**Download Plain Text**](./joshua-sternadel-resume.txt)
 
 ---
 
