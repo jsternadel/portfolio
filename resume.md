@@ -3,10 +3,9 @@ title: "Joshua Sternadel - Systems Architecture & Engineering Resume"
 ---
 
 # Joshua Sternadel
-### Pattern Seeking Whimsical Chaos Engineer
 **Kansas City, MO | js.sternadel@gmail.com | 785-331-8327**
 
-# SYSTEM ARCHITECTURE & BUSINESS ALIGNMENT
+### SYSTEM ARCHITECTURE & BUSINESS ALIGNMENT
 
 A non-traditional engineer who leverages a background in artistic creativity to approach technical architecture without the bias of "industry-standard" stagnation. Applies spatial thinking, pattern recognition, and deep-infrastructure logic to solve complex structural problems that traditional engineering teams struggle to resolve. A self-directed technical anchor focused on building clean, frictionless distributed systems that prioritize radical automation, continuous compliance, and mission-critical stability.
 

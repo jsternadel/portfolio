@@ -1,9 +1,7 @@
-<!--
 ---
 layout: default
-title: '{$js-portfolio}'
+title: 'Joshua Sternadel | {$js-portfolio}'
 ---
--->
 
 # Joshua Sternadel
 ## System Architecture & Business Alignment
