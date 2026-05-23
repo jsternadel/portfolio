@@ -9,10 +9,10 @@ title: 'Joshua Sternadel | {$js-portfolio}'
 A non-traditional engineer who leverages a background in artistic creativity to approach technical architecture without the bias of "industry-standard" stagnation. Applies spatial thinking, pattern recognition, and deep-infrastructure logic to solve complex structural problems that traditional engineering teams struggle to resolve. A self-directed technical anchor focused on building clean, frictionless distributed systems that prioritize radical automation, continuous compliance, and mission-critical stability.
 
 ### Navigation Hub
-*   [**Read Professional Resume**](./resume)
-*   [**Download PDF**](./joshua-sternadel-resume.pdf)
-*   [**Download Plain Text**](./joshua-sternadel-resume.txt)
-*   [**Download DOCX**](./joshua-sternadel-resume.docx)
+*   [**Read Professional Resume**](./resume){:target="_blank"}
+*   [**Download PDF**](./joshua-sternadel-resume.pdf){:target="_blank"}
+*   [**Download Plain Text**](./joshua-sternadel-resume.txt){:target="_blank"}
+*   [**Download DOCX**](./joshua-sternadel-resume.docx){:target="_blank"}
 
 ---
 
