@@ -1,5 +1,7 @@
 ---
 ---
+@import "{{ site.theme }}";
+
 @import url("main.css");body {
     color: #333333;
     font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
