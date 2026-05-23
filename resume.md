@@ -65,17 +65,20 @@ Java | C# | Redhat | Node.js | TypeScript | Angular | Ansible | DevOps | Automat
 - Reduced IT payroll costs by nearly 18% by upgrading infrastructure and implementing automated, failover-ready environments.
 
 ### Additional Relevant Experience
-**Trucking Central** | Weston, MO | *Software Consultant (Contract)* 
+**Trucking Central** | Weston, MO | *Software Consultant (Contract)* \
 Planned, developed, and tested Android-based GPS solutions for the intermodal supply chain industry.
-**INNOVATIVE SOLUTIONS** | Lenexa, KS | *Mobile Solutions Technician*
+
+**INNOVATIVE SOLUTIONS** | Lenexa, KS | *Mobile Solutions Technician* \
 Troubleshot and fixed Nextel devices for first responders and construction businesses, listened to client needs, and leveraged emerging technologies to find solutions for those needs.
 
 ### Community Impact & Leadership
 
 **Seek and Serve** | *Technical Advisory Board Member* | (2026 – Present)
+
 - **Technical Guidance:** Provide high-level architectural oversight and logistical strategy to the parent 501(c)(3) organization.
 
 **33meals.org (Subsidiary)** | *Infrastructure Consultant / Volunteer* | (2026 – Present)
+
 - **Organizational Launch:** Spearheaded the launch and incorporation of 33meals.org as a dedicated subsidiary to
 address food insecurity through scalable, data-driven, distribution models.
 - **Operational Infrastructure:** Managed the full technical and administrative setup, including domain
