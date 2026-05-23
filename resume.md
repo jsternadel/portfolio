@@ -1,5 +1,5 @@
 ---
-title: "Joshua Sternadel - Systems Architecture & Engineering Resume"
+pagetitle: "Joshua Sternadel - Systems Architecture & Engineering Resume"
 ---
 
 # Joshua Sternadel
