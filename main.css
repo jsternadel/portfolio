@@ -1,21 +1,25 @@
+/* 🚀 Target the body tag with absolute specificity to crush the theme defaults */
+html body, 
+body.main, 
 body {
-    color: #333333;
-    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 10.5pt;
-    line-height: 1.5;
+    color: #333333 !important;
+    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size: 10.5pt !important;
+    line-height: 1.5 !important;
 }
 
-h1, h2 {
-    color: #111111;
-    font-weight: 700;
+/* Force your deep text headings and strong blocks over the theme containers */
+html body h1, html body h2 {
+    color: #111111 !important;
+    font-weight: 700 !important;
 }
 
-h3, h4, h5, h6, strong {
-    color: #222222;
-    font-weight: 700;
+html body h3, html body h4, html body strong {
+    color: #222222 !important;
+    font-weight: 700 !important;
 }
 
-a {
-    color: #267CB9;
-    text-decoration: none;
+html body a {
+    color: #267CB9 !important;
+    text-decoration: none !important;
 }
