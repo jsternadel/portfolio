@@ -6,10 +6,10 @@
 A non-traditional engineer who leverages a background in artistic creativity to approach technical architecture without the bias of "industry-standard" stagnation. Applies spatial thinking, pattern recognition, and deep-infrastructure logic to solve complex structural problems that traditional engineering teams struggle to resolve. A self-directed technical anchor focused on building clean, frictionless distributed systems that prioritize radical automation, continuous compliance, and mission-critical stability.
 
 ### Core Competencies
-Team Leadership &#124; Systems Architecture &#124; Solutions Engineering &#124; Efficiency and Productivity Specialist
+Team Leadership \| Systems Architecture \| Solutions Engineering \| Efficiency and Productivity Specialist
 
 ### Technical Skills
-Java &#124; C# | Redhat &#124; Node.js &#124; TypeScript | Angular &#124; Ansible | DevOps &#124; Automation
+Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Automation
 
 ### Key Achievements
 
@@ -23,9 +23,9 @@ Java &#124; C# | Redhat &#124; Node.js &#124; TypeScript | Angular &#124; Ansibl
 
 ### Professional Experience
 
-#### T-MOBILE (Formerly Sprint) &#124; Overland Park, KS (2013 – 2026)
+#### T-MOBILE (Formerly Sprint) \| Overland Park, KS \| 2013 to 2026
 
-**Senior Software Engineer &#124; Acting Solutions Architect & DevOps Engineer** (2020 – 2026)
+**Senior Software Engineer \| Acting Solutions Architect & DevOps Engineer** 2020 to 2026 \
 *Embedded within Tools Team to assist with architectural duties and build APIs that connect proprietary systems to Atlassian and other vendors' products. Transitioned to DevOps role as the only true developer on the SysAdmin team.*
 
 - **Enterprise Cloud Migration:** Architected and executed a high-integrity migration of a decade’s worth of metadata and complex workflows from Jira Data Center to Jira Cloud, ensuring zero data loss across mission-critical proprietary projects.
@@ -38,8 +38,7 @@ Java &#124; C# | Redhat &#124; Node.js &#124; TypeScript | Angular &#124; Ansibl
 
 - **Value Stream Optimization:** Optimized the VM lifecycle by automating the end-to-end onboarding process, significantly accelerating the "Lead Time to Deployment" for internal engineering teams.
 
-**Application Developer III &#124; Acting Principal Software Engineer & Systems Architect** (2017 – 2020)
-*Acted as team leader and lead architect for the Workflow Automation Team.*
+**Application Developer III \| Acting Principal Software Engineer & Systems Architect** 2017 to 2020
 
 - **Architectural Leadership:** Directed the development of a "First Principles" replacement for legacy SKU management, delivering a high-performance solution in 6 months that outpaced a decade of failed initiatives by multiple cross-functional teams.
 
@@ -55,7 +54,7 @@ Java &#124; C# | Redhat &#124; Node.js &#124; TypeScript | Angular &#124; Ansibl
 
 - **Intellectual Property:** Co-authored a U.S. Patent for a novel SQL data storage method, optimizing natural sorting algorithms for massive datasets.
 
-**Product Development Engineer II** (2013 – 2017)
+**Product Development Engineer II** 2013 to 2017 \
 *Transitioned from device testing into application development through hybrid role bridging both disciplines.*
 
 - **Full-Stack Application Architecture:** Engineered a specialized visual prototyping platform featuring a drag-and-drop grid system to simulate and design Out-of-Box Experiences (OOBE); integrated background profiling engines to capture real-time CPU, RAM, storage, and battery metrics alongside automated Play Store data scraping.
@@ -66,14 +65,14 @@ Java &#124; C# | Redhat &#124; Node.js &#124; TypeScript | Angular &#124; Ansibl
 
 - **Release Readiness & Prioritization:** Planned and prioritized weekly device onboarding for the Slate platform, improving visibility and accelerating readiness across teams.
 
-#### EXPERIS (Contractor at Sprint) &#124; Overland Park, KS (2012 – 2013)
-**Technical Support Rep II**
+#### EXPERIS (Contractor at Sprint) \| Overland Park, KS \| 2012 to 2013
+**Technical Support Rep II** \
 *Developed, tested, and troubleshot XML scripts for the SLATE platform, which retail stores use for automated device testing.*
 
 - Wrote XML scripts for Slate automation testing of mobile devices.
 - Worked with OEM partners, troubleshooting issues with the Slate Device Testing platform.
 
-#### MO-KAN CONTAINER SERVICES &#124; Kansas City, KS 2011 to 2012
+#### MO-KAN CONTAINER SERVICES \| Kansas City, KS \| 2011 to 2012
 **System Administrator**
 
 - Managed all technology operations across 3 onsite locations, keeping systems stable and responsive for daily business needs.
@@ -82,10 +81,10 @@ Java &#124; C# | Redhat &#124; Node.js &#124; TypeScript | Angular &#124; Ansibl
 - Reduced IT payroll costs by nearly 18% by upgrading infrastructure and implementing automated, failover-ready environments.
 
 ### Additional Relevant Experience
-**Trucking Central** | Weston, MO &#124; *Software Consultant (Contract)* \
+**Trucking Central** | Weston, MO \| *Software Consultant (Contract)* \
 Planned, developed, and tested Android-based GPS solutions for the intermodal supply chain industry.
 
-**INNOVATIVE SOLUTIONS** | Lenexa, KS &#124; *Mobile Solutions Technician* \
+**INNOVATIVE SOLUTIONS** | Lenexa, KS \| *Mobile Solutions Technician* \
 Troubleshot and fixed Nextel devices for first responders and construction businesses, listened to client needs, and leveraged emerging technologies to find solutions for those needs.
 
 ### Community Impact & Leadership
@@ -109,4 +108,4 @@ enterprise efficiency principles to humanitarian service.
 **Associate of Arts (AA), Graphic Design** – Johnson County Community College, Overland Park, KS
 
 ### Core Technical Index (Verified Hands-On Competency)
-TypeScript &#124; Node.js &#124; JavaScript | PHP &#124; C# | .NET 8 | .NET Core &#124; Java | Angular &#124; Node-RED &#124; Ansible | SQL &#124; PostgreSQL | Jira API &#124; Atlassian SDK &#124; Systems Architecture &#124; Microservices | Fluent API Design &#124; API Gateway &#124; Developer Experience (DevEx) &#124; Platform Abstractions &#124; DevOps | CI/CD &#124; Infrastructure as Code (IaC) &#124; Automation | DevSecOps &#124; SRE | Distributed Systems &#124; Spherical Geometry &#124; Database Management (US Patent #10,366,066) &#124; Agile | Scrum &#124; The Phoenix Project/Unicorn Project Philosophies &#124; Principal Software Engineer &#124; Solutions Architect &#124; Staff Systems Engineer &#124; Platform Architect &#124; Site Reliability Engineer
+TypeScript \| Node.js \| JavaScript | PHP \| C# | .NET 8 | .NET Core \| Java | Angular \| Node-RED \| Ansible | SQL \| PostgreSQL | Jira API \| Atlassian SDK \| Systems Architecture \| Microservices | Fluent API Design \| API Gateway \| Developer Experience (DevEx) \| Platform Abstractions \| DevOps | CI/CD \| Infrastructure as Code (IaC) \| Automation | DevSecOps \| SRE | Distributed Systems \| Spherical Geometry \| Database Management (US Patent #10,366,066) \| Agile | Scrum \| The Phoenix Project/Unicorn Project Philosophies \| Principal Software Engineer \| Solutions Architect \| Staff Systems Engineer \| Platform Architect \| Site Reliability Engineer
