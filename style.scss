@@ -1,6 +1,6 @@
 ---
 ---
-@import url(main.css);body {
+{% include_relative css/main.css %}body {
     color: #333333;
     font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 10.5pt;
