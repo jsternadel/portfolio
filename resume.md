@@ -1,5 +1,5 @@
 # Joshua Sternadel
-**Kansas City, MO | js.sternadel@gmail.com | 785-331-8327**
+**Kansas City, MO | [Contact via LinkedIn](https://linkedin.com/in/jsternadel)**
 
 ### Systems Architecture & Business Alignment
 
