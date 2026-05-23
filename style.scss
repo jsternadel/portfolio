@@ -2,5 +2,6 @@
 ---
 @import "{{ site.theme }}";
 
-@import url(main.css); 
-@import url(pdf-resume.css);
+// SUCK IT JEKYLL
+{% include_relative main.css %}
+{% include_relative pdf-resume.css %}
