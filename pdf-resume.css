@@ -1,0 +1,39 @@
+/* styles/pdf-resume.css */
+@font-face {
+    font-family: 'Noto Sans';
+    font-weight: 400;
+    font-style: normal;
+    src: local("Noto Sans"),
+         local("Noto-Sans-regular"),
+         url("fonts/Noto-Sans-regular/Noto-Sans-regular.woff2") format("woff2"),
+         url("fonts/Noto-Sans-regular/Noto-Sans-regular.woff") format("woff"),
+         url("fonts/Noto-Sans-regular/Noto-Sans-regular.ttf") format("truetype");
+}
+
+body {
+    color: #727272;
+    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body, .main, #content {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+h1, h2 {
+    color: #222;
+}
+
+h3, h4, h5, h6 {
+    color: #494949
+}
+
+a {
+    color: #267CB9;
+    text-decoration: none;
+}
+
+strong {
+    color: #494949;
+}
