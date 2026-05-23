@@ -4,3 +4,5 @@ plugins:
 title: "{$js-portfolio}"
 description: ""
 show_downloads: true
+sass:
+  sass_dir: assets/css
