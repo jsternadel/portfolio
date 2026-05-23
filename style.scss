@@ -2,5 +2,5 @@
 ---
 @import "{{ site.theme }}";
 
-@import "./main"; 
-@import "./pdf-resume";
+@import url(main.css); 
+@import url(pdf-resume.css);
