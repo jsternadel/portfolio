@@ -17,8 +17,11 @@ Java | C# | Redhat | Node.js | TypeScript | Angular | Ansible | DevOps | Automat
 Key Achievements
 
 -   Strategic Retention & Continuity: Awarded a significant retention bonus during the Sprint/T-Mobile merger, designated as mission-critical personnel to ensure technical stability and architectural integration during the corporate transition.
+
 -   U.S. Patent Author (#10,366,066): Co-authored a patent for database management systems, specifically engineering a natural sorting algorithm in SQL to optimize data retrieval and user experience.
+
 -   Infrastructure Transformation: Orchestrated a full-scale migration from legacy physical servers to a redundant VMware-based virtual infrastructure, reducing enterprise downtime by over 90% and cutting operational payroll costs by 18%.
+
 -   Algorithmic Solutions: Engineered a first-principles solution to resolve GPS signal noise and “teleportation” errors for intermodal logistics. By deciphering raw NMEA 0183 sentences and applying spherical geometry with rate-of-acceleration modeling, successfully stabilized coordinate paths and eliminated tracking jitter within high-interference rail yards.
 
 Professional Experience
@@ -28,26 +31,39 @@ T-MOBILE (Formerly Sprint) | Overland Park, KS (2013 – 2026)
 Senior Software Engineer | Acting Solutions Architect & DevOps Engineer (2020 – 2026) Embedded within Tools Team to assist with architectural duties and build APIs that connect proprietary systems to Atlassian and other vendors’ products. Transitioned to DevOps role as the only true developer on the SysAdmin team.
 
 -   Enterprise Cloud Migration: Architected and executed a high-integrity migration of a decade’s worth of metadata and complex workflows from Jira Data Center to Jira Cloud, ensuring zero data loss across mission-critical proprietary projects.
+
 -   Ecosystem Integration & APIs: Authored a specialized suite of Node.js libraries and Node-RED nodes to automate full-lifecycle project provisioning via Atlassian APIs, creating a “self-service” ecosystem for developers.
+
 -   Infrastructure as Code (IaC): Bridged the gap between Software Engineering and Systems Administration by implementing Infrastructure as Code (IaC) via Ansible, successfully reducing manual operational toil and human error.
+
 -   DevSecOps & Automation: Engineered automated vulnerability remediation workflows that drove lab data center security debt from 100+ monthly criticals to zero, achieving a state of continuous compliance.
+
 -   Value Stream Optimization: Optimized the VM lifecycle by automating the end-to-end onboarding process, significantly accelerating the “Lead Time to Deployment” for internal engineering teams.
 
 Application Developer III | Acting Principal Software Engineer & Systems Architect (2017 – 2020) Acted as team leader and lead architect for the Workflow Automation Team.
 
 -   Architectural Leadership: Directed the development of a “First Principles” replacement for legacy SKU management, delivering a high-performance solution in 6 months that outpaced a decade of failed initiatives by multiple cross-functional teams.
+
 -   Distributed Systems: Designed “Porcupine,” a custom message bus system enabling real-time, asynchronous communication between disparate enterprise applications.
+
 -   Framework Engineering: Engineered a custom, data-agnostic PHP framework utilizing reflection and annotations to automate the CRUD lifecycle across disparate schemas (SQL, NoSQL, JSON, XML).
+
 -   Data Abstraction & Hydration: Developed a model-driven hydration engine that abstracted away storage-layer complexity, allowing for seamless state transitions between relational and non-relational data sources.
+
 -   Scale & Adoption: Prototyped and deployed the framework to internal high-value T-Mobile applications, proving a 10x reduction in “boilerplate” code for new service onboarding.
+
 -   Site Reliability: Owned and managed a complex 42-VM ecosystem, maintaining high availability and scalability for the Device and Technology Organization.
+
 -   Intellectual Property: Co-authored a U.S. Patent for a novel SQL data storage method, optimizing natural sorting algorithms for massive datasets.
 
 Product Development Engineer II (2013 – 2017) Transitioned from device testing into application development through hybrid role bridging both disciplines.
 
 -   Full-Stack Application Architecture: Engineered a specialized visual prototyping platform featuring a drag-and-drop grid system to simulate and design Out-of-Box Experiences (OOBE); integrated background profiling engines to capture real-time CPU, RAM, storage, and battery metrics alongside automated Play Store data scraping.
+
 -   Database Engineering & Tooling: Authored the foundational codebase for the Device Development and Certification requirements and test-plan database, laying the groundwork for scalable documentation and testing.
+
 -   Cross-Functional Advisory: Advised the Retail Department in weekly technical reviews, clarifying bugs, known issues, and system behaviors so teams could plan and prioritize work with greater accuracy.
+
 -   Release Readiness & Prioritization: Planned and prioritized weekly device onboarding for the Slate platform, improving visibility and accelerating readiness across teams.
 
 EXPERIS (Contractor at Sprint) | Overland Park, KS (2012 – 2013)
@@ -77,10 +93,16 @@ Troubleshot and fixed Nextel devices for first responders and construction busin
 Community Impact & Leadership
 
 Seek and Serve | Technical Advisory Board Member | 2026–Present
-- Technical Guidance: Provide high-level architectural oversight and logistical strategy to the parent 501(c)(3) organization.
+
+-   Technical Guidance: Provide high-level architectural oversight and logistical strategy to the parent 501(c)(3) organization.
 
 33meals.org (Subsidiary) | Infrastructure Consultant / Volunteer | 2026–Present
-- Organizational Launch: Spearheaded the launch and incorporation of 33meals.org as a dedicated subsidiary to address food insecurity through scalable, data-driven, distribution models. - Operational Infrastructure: Managed the full technical and administrative setup, including domain registration, digital architecture, and regulatory filings to ensure high-integrity non-profit operations. - Strategic Development: Designed a streamlined logistics model to optimize charitable food delivery, applying enterprise efficiency principles to humanitarian service.
+
+-   Organizational Launch: Spearheaded the launch and incorporation of 33meals.org as a dedicated subsidiary to address food insecurity through scalable, data-driven, distribution models.
+
+-   Operational Infrastructure: Managed the full technical and administrative setup, including domain registration, digital architecture, and regulatory filings to ensure high-integrity non-profit operations.
+
+-   Strategic Development: Designed a streamlined logistics model to optimize charitable food delivery, applying enterprise efficiency principles to humanitarian service.
 
 Education
 
