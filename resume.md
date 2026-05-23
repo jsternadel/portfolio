@@ -1,7 +1,3 @@
----
-pagetitle: "Joshua Sternadel - Systems Architecture & Engineering Resume"
----
-
 # Joshua Sternadel
 **Kansas City, MO | js.sternadel@gmail.com | 785-331-8327**
 
