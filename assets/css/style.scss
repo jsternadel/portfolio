@@ -2,24 +2,4 @@
 ---
 @import "{{ site.theme }}";
 
-@import url("main.css");body {
-    color: #333333;
-    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 10.5pt;
-    line-height: 1.5;
-}
-
-h1, h2 {
-    color: #111111;
-    font-weight: 700;
-}
-
-h3, h4, h5, h6, strong {
-    color: #222222;
-    font-weight: 700;
-}
-
-a {
-    color: #267CB9;
-    text-decoration: none;
-}
+@import url("main.css");
