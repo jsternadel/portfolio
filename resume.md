@@ -1,5 +1,5 @@
 # Joshua Sternadel
-**Kansas City, MO | [Contact via LinkedIn](https://linkedin.com/in/jsternadel)**
+**Kansas City, MO | [Contact via LinkedIn](https://linkedin.com)**
 
 ### Systems Architecture & Business Alignment
 
