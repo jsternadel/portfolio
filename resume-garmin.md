@@ -1,9 +1,7 @@
 # Joshua Sternadel
 **Kansas City, MO | js.sternadel@gmail.com | 785-331-8327**
 
-### Senior Software Engineer
-
-Senior Software Engineer | TypeScript & .NET Platform Tooling
+### Senior Software Engineer | TypeScript & .NET Platform Tooling
 
 Senior Software Engineer with deep expertise in the TypeScript ecosystem, specializing in robust Angular frontends, scalable Node.js microservices, and enterprise C#/.NET integrations. A first-principles developer who bridges high-scale UI architecture with low-level data realities, featuring foundational experience engineering geospatial algorithms and parsing raw NMEA 0183 telemetry. Focuses on writing clean, highly predictable code that ensures effortless long-term maintainability for core platform pipelines.
 
