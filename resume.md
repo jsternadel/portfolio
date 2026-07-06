@@ -92,11 +92,11 @@ Troubleshot and fixed Nextel devices for first responders and construction busin
 
 ### Community Impact & Leadership
 
-**Seek and Serve** &#124; *Technical Advisory Board Member* &#124; 2026 to Present
+**Seek and Serve** &#124; *Technical Advisory Board Member* &#124; 2026 to Present \
 
 - **Technical Guidance:** Provide high-level architectural oversight and logistical strategy to the parent 501(c)(3) organization.
 
-**33meals.org (Subsidiary)** &#124; *Infrastructure Consultant / Volunteer* &#124; 2026 to Present
+**33meals.org (Subsidiary)** &#124; *Infrastructure Consultant / Volunteer* &#124; 2026 to Present \
 
 - **Organizational Launch:** Spearheaded the launch and incorporation of 33meals.org as a dedicated subsidiary to
 address food insecurity through scalable, data-driven, distribution models.
