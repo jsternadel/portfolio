@@ -22,9 +22,7 @@ Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Au
 - **Algorithmic Solutions:** Engineered a first-principles solution to resolve GPS signal noise and "teleportation" errors for intermodal logistics. By deciphering raw NMEA 0183 sentences and applying spherical geometry with rate-of-acceleration modeling, successfully stabilized coordinate paths and eliminated tracking jitter within high-interference rail yards.
 
 ### Professional Experience
-
-#### T-MOBILE \| Overland Park, KS \| 2021 to 2026
-**Senior Software Engineer \| Acting Solutions Architect & DevOps Engineer** \
+**T-Mobile** | Senior Software Engineer \| Acting Solutions Architect \| 2021 to 2026 \
 *Embedded within Tools Team to assist with architectural duties and build APIs that connect proprietary systems to Atlassian and other vendors' products. Transitioned to DevOps role as the only true developer on the SysAdmin team.*
 
 
@@ -38,8 +36,8 @@ Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Au
 
 - **Value Stream Optimization:** Optimized the VM lifecycle by automating the end-to-end onboarding process, significantly accelerating the "Lead Time to Deployment" for internal engineering teams.
 
-#### SPRINT \| Overland Park, KS \| 2017 to 2021
-**Application Developer III \| Acting Principal Software Engineer & Systems Architect**
+**Sprint** | Application Developer III \| Acting Principal Engineer \| 2017 to 2021 \
+*Served as Core Technical Advisor and Architectural Gatekeeper to leadership, maintaining absolute technical veto power and engineering oversight for all departmental systems and cross-functional integrations.*
 
 
 - **Architectural Leadership:** Directed the development of a "First Principles" replacement for legacy SKU management, delivering a high-performance solution in 6 months that outpaced a decade of failed initiatives by multiple cross-functional teams.
@@ -56,8 +54,7 @@ Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Au
 
 - **Intellectual Property:** Co-authored a U.S. Patent for a novel SQL data storage method, optimizing natural sorting algorithms for massive datasets.
 
-#### SPRINT \| Overland Park, KS \| 2021 to 2017
-**Product Development Engineer II** \
+**Sprint** | Product Development Engineer II** | 2013 to 2017 \
 *Transitioned from device testing into application development through hybrid role bridging both disciplines.*
 
 
@@ -69,15 +66,13 @@ Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Au
 
 - **Release Readiness & Prioritization:** Planned and prioritized weekly device onboarding for the Slate platform, improving visibility and accelerating readiness across teams.
 
-#### EXPERIS (Contractor at Sprint) \| Overland Park, KS \| 2012 to 2013
-**Technical Support Rep II** \
+**EXPERIS (Contractor at Sprint)** | Technical Support Rep II \| 2012 to 2013 \
 *Developed, tested, and troubleshot XML scripts for the SLATE platform, which retail stores use for automated device testing.*
 
 - Wrote XML scripts for Slate automation testing of mobile devices.
 - Worked with OEM partners, troubleshooting issues with the Slate Device Testing platform.
 
-#### MO-KAN CONTAINER SERVICES \| Kansas City, KS \| 2011 to 2012
-**System Administrator**
+**MO-KAN Container Services** | System Administrator \| 2011 to 2012
 
 - Managed all technology operations across 3 onsite locations, keeping systems stable and responsive for daily business needs.
 - Planned and executed a full network modernization, replacing aging G3 servers with a VMware-based virtual infrastructure and scalable iSCSI SAN.
@@ -85,10 +80,10 @@ Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Au
 - Reduced IT payroll costs by nearly 18% by upgrading infrastructure and implementing automated, failover-ready environments.
 
 ### Additional Relevant Experience
-**Trucking Central** | Weston, MO \| *Software Consultant (Contract)* \
+**Trucking Central** | Software Consultant (Contract) \
 Planned, developed, and tested Android-based GPS solutions for the intermodal supply chain industry.
 
-**INNOVATIVE SOLUTIONS** | Lenexa, KS \| *Mobile Solutions Technician* \
+**Innovative Solutions** | Mobile Solutions Technician \
 Troubleshot and fixed Nextel devices for first responders and construction businesses, listened to client needs, and leveraged emerging technologies to find solutions for those needs.
 
 ### Community Impact & Leadership
@@ -111,7 +106,7 @@ registration, digital architecture, and regulatory filings to ensure high-integr
 enterprise efficiency principles to humanitarian service.
 
 ### Education
-**Associate of Arts (AA), Graphic Design** – Johnson County Community College, Overland Park, KS
+**Associate of Arts (AA), Graphic Design** | Johnson County Community College \| Overland Park, KS
 
 ### Technical Environment Matrix
 
