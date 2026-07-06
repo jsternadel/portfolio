@@ -38,7 +38,7 @@ Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Au
 
 - **Value Stream Optimization:** Optimized the VM lifecycle by automating the end-to-end onboarding process, significantly accelerating the "Lead Time to Deployment" for internal engineering teams.
 
-#### T-MOBILE \| Overland Park, KS \| 2017 to 2021
+#### SPRINT \| Overland Park, KS \| 2017 to 2021
 **Application Developer III \| Acting Principal Software Engineer & Systems Architect**
 
 
@@ -56,7 +56,7 @@ Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Au
 
 - **Intellectual Property:** Co-authored a U.S. Patent for a novel SQL data storage method, optimizing natural sorting algorithms for massive datasets.
 
-#### T-MOBILE \| Overland Park, KS \| 2021 to 2017
+#### SPRINT \| Overland Park, KS \| 2021 to 2017
 **Product Development Engineer II** \
 *Transitioned from device testing into application development through hybrid role bridging both disciplines.*
 
