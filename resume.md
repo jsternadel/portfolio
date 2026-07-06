@@ -23,9 +23,8 @@ Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Au
 
 ### Professional Experience
 
-#### T-MOBILE (Formerly Sprint) \| Overland Park, KS \| 2013 to 2026
-
-**Senior Software Engineer \| Acting Solutions Architect & DevOps Engineer** 2020 to 2026 \
+#### T-MOBILE \| Overland Park, KS \| 2021 to 2026
+**Senior Software Engineer \| Acting Solutions Architect & DevOps Engineer** \
 *Embedded within Tools Team to assist with architectural duties and build APIs that connect proprietary systems to Atlassian and other vendors' products. Transitioned to DevOps role as the only true developer on the SysAdmin team.*
 
 
@@ -39,7 +38,8 @@ Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Au
 
 - **Value Stream Optimization:** Optimized the VM lifecycle by automating the end-to-end onboarding process, significantly accelerating the "Lead Time to Deployment" for internal engineering teams.
 
-**Application Developer III \| Acting Principal Software Engineer & Systems Architect** 2017 to 2020
+#### T-MOBILE \| Overland Park, KS \| 2017 to 2021
+**Application Developer III \| Acting Principal Software Engineer & Systems Architect**
 
 
 - **Architectural Leadership:** Directed the development of a "First Principles" replacement for legacy SKU management, delivering a high-performance solution in 6 months that outpaced a decade of failed initiatives by multiple cross-functional teams.
@@ -56,7 +56,8 @@ Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Au
 
 - **Intellectual Property:** Co-authored a U.S. Patent for a novel SQL data storage method, optimizing natural sorting algorithms for massive datasets.
 
-**Product Development Engineer II** 2013 to 2017 \
+#### T-MOBILE \| Overland Park, KS \| 2021 to 2017
+**Product Development Engineer II** \
 *Transitioned from device testing into application development through hybrid role bridging both disciplines.*
 
 

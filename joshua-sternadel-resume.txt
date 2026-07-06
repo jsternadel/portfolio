@@ -26,9 +26,9 @@ Key Achievements
 
 Professional Experience
 
-T-MOBILE (Formerly Sprint) | Overland Park, KS | 2013 to 2026
+T-MOBILE | Overland Park, KS | 2021 to 2026
 
-Senior Software Engineer | Acting Solutions Architect & DevOps Engineer 2020 to 2026
+Senior Software Engineer | Acting Solutions Architect & DevOps Engineer
 Embedded within Tools Team to assist with architectural duties and build APIs that connect proprietary systems to Atlassian and other vendors’ products. Transitioned to DevOps role as the only true developer on the SysAdmin team.
 
 -   Enterprise Cloud Migration: Architected and executed a high-integrity migration of a decade’s worth of metadata and complex workflows from Jira Data Center to Jira Cloud, ensuring zero data loss across mission-critical proprietary projects.
@@ -41,7 +41,9 @@ Embedded within Tools Team to assist with architectural duties and build APIs th
 
 -   Value Stream Optimization: Optimized the VM lifecycle by automating the end-to-end onboarding process, significantly accelerating the “Lead Time to Deployment” for internal engineering teams.
 
-Application Developer III | Acting Principal Software Engineer & Systems Architect 2017 to 2020
+T-MOBILE | Overland Park, KS | 2017 to 2021
+
+Application Developer III | Acting Principal Software Engineer & Systems Architect
 
 -   Architectural Leadership: Directed the development of a “First Principles” replacement for legacy SKU management, delivering a high-performance solution in 6 months that outpaced a decade of failed initiatives by multiple cross-functional teams.
 
@@ -57,7 +59,9 @@ Application Developer III | Acting Principal Software Engineer & Systems Archite
 
 -   Intellectual Property: Co-authored a U.S. Patent for a novel SQL data storage method, optimizing natural sorting algorithms for massive datasets.
 
-Product Development Engineer II 2013 to 2017
+T-MOBILE | Overland Park, KS | 2021 to 2017
+
+Product Development Engineer II
 Transitioned from device testing into application development through hybrid role bridging both disciplines.
 
 -   Full-Stack Application Architecture: Engineered a specialized visual prototyping platform featuring a drag-and-drop grid system to simulate and design Out-of-Box Experiences (OOBE); integrated background profiling engines to capture real-time CPU, RAM, storage, and battery metrics alongside automated Play Store data scraping.
