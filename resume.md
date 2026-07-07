@@ -54,7 +54,7 @@ Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Au
 
 - **Intellectual Property:** Co-authored a U.S. Patent for a novel SQL data storage method, optimizing natural sorting algorithms for massive datasets.
 
-**Sprint** | Product Development Engineer II** | 2013 to 2017 \
+**Sprint** | Product Development Engineer II \| 2013 to 2017 \
 *Transitioned from device testing into application development through hybrid role bridging both disciplines.*
 
 
@@ -106,7 +106,7 @@ registration, digital architecture, and regulatory filings to ensure high-integr
 enterprise efficiency principles to humanitarian service.
 
 ### Education
-**Associate of Arts (AA), Graphic Design** | Johnson County Community College \| Overland Park, KS
+**Associate of Arts (AA), Graphic Design** | Johnson County Community College
 
 ### Technical Environment Matrix
 
