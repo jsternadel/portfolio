@@ -1,15 +1,13 @@
 # Joshua Sternadel
 **Kansas City, MO | [Contact via LinkedIn](https://linkedin.com)**
 
-### Systems Architecture & Business Alignment
+### Systems Architecture & Deep-Infrastructure Engineering
 
-A non-traditional engineer who leverages a background in artistic creativity to approach technical architecture without the bias of "industry-standard" stagnation. Applies spatial thinking, pattern recognition, and deep-infrastructure logic to solve complex structural problems that traditional engineering teams struggle to resolve. A self-directed technical anchor focused on building clean, frictionless distributed systems that prioritize radical automation, continuous compliance, and mission-critical stability.
+A high-capacity Systems Architect who leverages advanced spatial thinking and deep pattern recognition to solve complex structural debt that traditional engineering groups cannot resolve. A self-directed technical anchor specializing in building clean, frictionless distributed systems from first principles. Proven track record of delivering radical automation, continuous DevSecOps compliance, and mission-critical stability across high-scale enterprise environments.
 
 ### Core Competencies
 Team Leadership \| Systems Architecture \| Solutions Engineering \| Efficiency and Productivity Specialist
 
-### Technical Skills
-Java \| C# | Redhat \| Node.js \| TypeScript | Angular \| Ansible | DevOps \| Automation
 
 ### Key Achievements
 
@@ -113,8 +111,10 @@ enterprise efficiency principles to humanitarian service.
 
 - **Architectural Disciplines:** Systems Architecture, Distributed Systems, Microservices, API Gateway Design, Platform Abstractions, SRE, DevSecOps
 
-- **Languages & Frameworks:** TypeScript, Node.js, JavaScript, PHP, C#, .NET 8, Java, Angular, Node-RED, Fluent API Design
+- **Frontend Web Frameworks:** Angular (Pre-1.0 to v15), Vue.js 2, TypeScript, JavaScript (ES6+), Client-Side Architecture
+
+- **Backend Environments & Languages:** Node.js Runtime, .NET Core (2.x), C#, Native Modules, Zero-Dependency Design
 
 - **Infrastructure & Automation:** Ansible, DevOps, CI/CD, Infrastructure as Code (IaC), Automation, Site Reliability, Red Hat Linux, VMware
 
-- **Data & Ecosystems:** PostgreSQL, SQL, MongoDB, Atlassian SDK, Jira API, Database Management (US Patent #10,366,066)
+- **Data & Ecosystems:** Dremio (Lakehouse Federation), ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana, Rocket.Chat, PostgreSQL, SQL, MongoDB, Atlassian SDK, Jira API (US Patent #10,366,066) 
