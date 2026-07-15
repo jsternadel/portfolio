@@ -34,6 +34,11 @@ Team Leadership \| Systems Architecture \| Solutions Engineering \| Efficiency a
 
 - **Value Stream Optimization:** Optimized the VM lifecycle by automating the end-to-end onboarding process, significantly accelerating the "Lead Time to Deployment" for internal engineering teams.
 
+- **Full-Lifecycle Application Engineering (Angular & Serverless):**
+    - Authored and launched a high-visibility 5G Speed Calculator application utilizing Angular and a modern serverless deployment pipeline to ensure instant scalability and zero infrastructure overhead.
+    - Designed and engineered a custom Device Pre-Load Feature Enablement Tracker, providing corporate stakeholders with real-time visibility into baseline software states across mobile devices.
+    - Bridged the gap between UI/UX design concepts and technical feasibility, establishing strict component styling and layout standards to ensure frontend performance and visual consistency.
+
 **Sprint** | Application Developer III \| Acting Principal Engineer \| 2017 to 2021 \
 *Served as Core Technical Advisor and Architectural Gatekeeper to leadership, maintaining absolute technical veto power and engineering oversight for all departmental systems and cross-functional integrations.*
 
@@ -48,9 +53,17 @@ Team Leadership \| Systems Architecture \| Solutions Engineering \| Efficiency a
 
 - **Scale & Adoption:** Prototyped and deployed the framework to internal high-value T-Mobile applications, proving a 10x reduction in "boilerplate" code for new service onboarding.
 
-- **Site Reliability:** Owned and managed a complex 42-VM ecosystem, maintaining high availability and scalability for the Device and Technology Organization.
+- **Data Architecture & Engineering Prototyping (Dremio):**
+    - Architected and validated a standalone Dremio data lakehouse POC designed to federate data layers across distributed MS SQL, MySQL, and MongoDB environments.
+    - Proved the viability of zero-ETL query federation across relational and NoSQL silos, establishing a blueprint for unified data access.
 
-- **Intellectual Property:** Co-authored a U.S. Patent for a novel SQL data storage method, optimizing natural sorting algorithms for massive datasets.
+- **Observability & Infrastructure Telemetry (ELK, Prometheus, Grafana):**
+    - Built an integrated observability and log aggregation platform using the ELK Stack, Prometheus, and Grafana within a 45-VM development environment.
+    - Designed end-to-end infrastructure telemetry and automated alert routing hooks via Rocket.Chat to demonstrate proactive incident response frameworks.
+
+- **Financial Stewardship & Capital Forecasting:**
+    - Managed and optimized the departmental infrastructure and licensing budget as it scaled from an annual spend of $300K to $1.3M.
+    - Formulated highly accurate 12-month financial and capacity projections to align capital expenditures with rapid system expansion.
 
 **Sprint** | Product Development Engineer II \| 2013 to 2017 \
 *Transitioned from device testing into application development through hybrid role bridging both disciplines.*
@@ -115,6 +128,6 @@ enterprise efficiency principles to humanitarian service.
 
 - **Backend Environments & Languages:** Node.js Runtime, .NET Core (2.x), C#, Native Modules, Zero-Dependency Design
 
-- **Infrastructure & Automation:** Ansible, DevOps, CI/CD, Infrastructure as Code (IaC), Automation, Site Reliability, Red Hat Linux, VMware
+- **Infrastructure & Automation:** Ansible, DevOps, CI/CD, Infrastructure as Code (IaC), Automation, Site Reliability, Serverless, Red Hat Linux, VMware
 
 - **Data & Ecosystems:** Dremio (Lakehouse Federation), ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana, Rocket.Chat, PostgreSQL, SQL, MongoDB, Atlassian SDK, Jira API (US Patent #10,366,066) 
