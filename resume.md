@@ -1,9 +1,9 @@
 # Joshua Sternadel
 **Kansas City, MO | [Contact via LinkedIn](https://linkedin.com)**
 
-### Systems Architecture & Deep-Infrastructure Engineering
+### Systems Architect & Principal Infrastructure Engineer
 
-A high-capacity Systems Architect who leverages advanced spatial thinking and deep pattern recognition to solve complex structural debt that traditional engineering groups cannot resolve. A self-directed technical anchor specializing in building clean, frictionless distributed systems from first principles. Proven track record of delivering radical automation, continuous DevSecOps compliance, and mission-critical stability across high-scale enterprise environments.
+A high-capacity Systems Architect and U.S. Patent author leveraging advanced spatial thinking and first-principles engineering to resolve complex structural debt. A self-directed technical anchor with 16 years of tech experience, including 13 years driving radical automation, distributed systems design, and continuous DevSecOps compliance across massive Fortune 500 telecom environments. Proven track record of securing mission-critical stability through major corporate mergers, high-stakes enterprise cloud migrations, and complex algorithmic problem-solving.
 
 ### Core Competencies
 Team Leadership \| Systems Architecture \| Solutions Engineering \| Efficiency and Productivity Specialist
@@ -13,18 +13,18 @@ Team Leadership \| Systems Architecture \| Solutions Engineering \| Efficiency a
 
 - **Strategic Retention & Continuity:** Awarded a significant retention bonus during the Sprint/T-Mobile merger, designated as mission-critical personnel to ensure technical stability and architectural integration during the corporate transition.
 
-- **U.S. Patent Author (#10,366,066):** Co-authored a patent for database management systems, specifically engineering a natural sorting algorithm in SQL to optimize data retrieval and user experience.
+- **U.S. Patent Author (#10,366,069):** Co-authored a patent for database management systems, specifically engineering a natural sorting algorithm in SQL to optimize data retrieval and user experience.
 
 - **Infrastructure Transformation:** Orchestrated a full-scale migration from legacy physical servers to a redundant VMware-based virtual infrastructure, reducing enterprise downtime by over 90% and cutting operational payroll costs by 18%.
 
 - **Algorithmic Solutions:** Engineered a first-principles solution to resolve GPS signal noise and "teleportation" errors for intermodal logistics. By deciphering raw NMEA 0183 sentences and applying spherical geometry with rate-of-acceleration modeling, successfully stabilized coordinate paths and eliminated tracking jitter within high-interference rail yards.
 
 ### Professional Experience
-**T-Mobile** | Senior Software Engineer \| Acting Solutions Architect \| 2021 to 2026 \
+**T-Mobile** | Solutions Architect \| Senior Systems Engineer \| 2021 to 2026 \
 *Embedded within Tools Team to assist with architectural duties and build APIs that connect proprietary systems to Atlassian and other vendors' products. Transitioned to DevOps role as the only true developer on the SysAdmin team.*
 
 
-- **Enterprise Cloud Migration:** Architected and executed a high-integrity migration of a decade’s worth of metadata and complex workflows from Jira Data Center to Jira Cloud, ensuring zero data loss across mission-critical proprietary projects.
+- **Enterprise Cloud Migration:** Architected and executed the high-integrity migration of a decade’s worth of metadata, complex workflows, and mission-critical certification data from Jira Data Center to Jira Cloud; successfully preserved zero-loss continuity across 300+ proprietary device projects supporting 3,000+ active enterprise users.
 
 - **Ecosystem Integration & APIs:** Authored a specialized suite of Node.js libraries and Node-RED nodes to automate full-lifecycle project provisioning via Atlassian APIs, creating a "self-service" ecosystem for developers.
 
@@ -39,13 +39,13 @@ Team Leadership \| Systems Architecture \| Solutions Engineering \| Efficiency a
     - Designed and engineered a custom Device Pre-Load Feature Enablement Tracker, providing corporate stakeholders with real-time visibility into baseline software states across mobile devices.
     - Bridged the gap between UI/UX design concepts and technical feasibility, establishing strict component styling and layout standards to ensure frontend performance and visual consistency.
 
-**Sprint** | Application Developer III \| Acting Principal Engineer \| 2017 to 2021 \
+**Sprint** | Principal Engineer \| Application Developer III \| 2017 to 2021 \
 *Served as Core Technical Advisor and Architectural Gatekeeper to leadership, maintaining absolute technical veto power and engineering oversight for all departmental systems and cross-functional integrations.*
 
 
 - **Architectural Leadership:** Directed the development of a "First Principles" replacement for legacy SKU management, delivering a high-performance solution in 6 months that outpaced a decade of failed initiatives by multiple cross-functional teams.
 
-- **Distributed Systems:** Designed "Porcupine," a custom message bus system enabling real-time, asynchronous communication between disparate enterprise applications.
+- **Distributed Systems:** Designed and deployed "Porcupine," a custom event-driven message bus architected on top of RabbitMQ; seamlessly synchronized live Jira workflow states with downstream application environments, establishing a single source of truth and eliminating cross-system data lag.
 
 - **Framework Engineering:** Engineered a custom, data-agnostic PHP framework utilizing reflection and annotations to automate the CRUD lifecycle across disparate schemas (SQL, NoSQL, JSON, XML).
 
@@ -53,13 +53,14 @@ Team Leadership \| Systems Architecture \| Solutions Engineering \| Efficiency a
 
 - **Scale & Adoption:** Prototyped and deployed the framework to internal high-value T-Mobile applications, proving a 10x reduction in "boilerplate" code for new service onboarding.
 
-- **Data Architecture & Engineering Prototyping (Dremio):**
+- **Data Architecture & Engineering Prototyping:**
     - Architected and validated a standalone Dremio data lakehouse POC designed to federate data layers across distributed MS SQL, MySQL, and MongoDB environments.
     - Proved the viability of zero-ETL query federation across relational and NoSQL silos, establishing a blueprint for unified data access.
 
-- **Observability & Infrastructure Telemetry (ELK, Prometheus, Grafana):**
-    - Built an integrated observability and log aggregation platform using the ELK Stack, Prometheus, and Grafana within a 45-VM development environment.
+- **Observability & Infrastructure Telemetry:**
+    - Built an integrated observability platform using the ELK Stack, Prometheus, and Grafana across a 45-VM development environment.
     - Designed end-to-end infrastructure telemetry and automated alert routing hooks via Rocket.Chat to demonstrate proactive incident response frameworks.
+    - Engineered a custom heartbeat monitoring framework embedded within distributed .NET Core applications; piped real-time telemetry directly into Grafana to ensure proactive incident response and eliminate production blind spots.
 
 - **Financial Stewardship & Capital Forecasting:**
     - Managed and optimized the departmental infrastructure and licensing budget as it scaled from an annual spend of $300K to $1.3M.
@@ -130,4 +131,4 @@ enterprise efficiency principles to humanitarian service.
 
 - **Infrastructure & Automation:** Ansible, DevOps, CI/CD, Infrastructure as Code (IaC), Automation, Site Reliability, Serverless, Red Hat Linux, VMware
 
-- **Data & Ecosystems:** Dremio (Lakehouse Federation), ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana, Rocket.Chat, PostgreSQL, SQL, MongoDB, Atlassian SDK, Jira API (US Patent #10,366,066) 
+- **Data & Ecosystems:** Dremio (Lakehouse Federation), ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana, Rocket.Chat, PostgreSQL, SQL, MongoDB, Atlassian SDK, Jira API (US Patent #10,366,069) 
