@@ -1,33 +1,54 @@
 ---
 layout: post
-title: "Case Study: Single-Source Document Automation Engine"
-subtitle: "Bypassing SaaS bloat with Kotlin DSL, WeasyPrint, and a custom Debian WSL toolchain"
-date: 2026-05-24
+title: "Infrastructure as Code for Careers: Building an Automated Resume CI/CD Pipeline"
+date: 2026-07-24
+categories: [DevOps, CI-CD, Automation, SecOps]
+tags: [github-actions, gradle, markdown, automation, pandoc, security]
 ---
 
-## Context & Objective
-Maintaining professional profiles across PDF, web (GitHub Pages), Plain Text (ATS optimization), and Word (DOCX) formats traditionally introduces **formatting drift** and manual operational overhead. The goal was to build a local, deterministic compilation pipeline that translates a single `resume.md` file into four identical, production-ready target assets simultaneously using automated CI/CD.
+# Case Study: Single Source of Truth (SSoT) Resume CI/CD Pipeline
 
-## The Architectural Breakdown (The "Why")
-Modern developer experience (DX) is heavily reliant on bloated cloud dependencies, brittle npm package trees, and rigid web-framework wrappers. Standard browser "Print-to-PDF" utilities fail at typographic layout, leaving orphan headings stranded at the bottom of pages due to continuous viewport rendering. 
+## 💡 Motivation: Productive Toil Elimination (I Hate MS Word)
+The driving force behind this project was a desire to completely eliminate manual documentation upkeep, combined with a deep frustration with traditional word processors. 
+* **The Microsoft Word Problem:** Traditional WYSIWYG editors are fundamentally broken for code-centric documentation. A single unintended keystroke can destroy layout grids, page margins, and font inheritance across an entire document. 
+* **Leveraging "Engineered Laziness":** The best automation stems from a refusal to repeat boring, manual tasks. Rather than wasting time fighting formatting boxes or manually exporting file variants every time a resume bullet is updated, it was vastly more efficient to spend a few hours engineering a permanent, programmatic solution. 
 
-Furthermore, cloud-hosted static site generators (like Jekyll) impose opinionated, hidden security gates that clobber modular CSS architectures (`@import` rules) unless forced into high-specificity overrides (`html body`).
 
-## The System Design & Engineering Pass
+## 📌 Executive Summary
+Engineered an automated, multi-artifact compilation pipeline that treats career documentation with production-grade DevOps discipline. By establishing a single `resume.md` file as a Single Source of Truth (SSoT), the pipeline automates formatting, build validation, and compilation of web, PDF, DOCX, and plain-text assets. To align with modern SecOps compliance frameworks, the pipeline features an automated programmatic data-scrubbing phase to strip Personally Identifiable Information (PII) mid-flight before shipping build artifacts to a public-facing hosting environment.
 
-### 1. Isolated Subsystem Assembly
-To ensure local compilation matches cloud runner execution identically, a custom, ultra-lightweight **Debian 12 (bookworm)** environment was compiled from upstream binary sources using `debootstrap` and isolated directly on a secondary physical hard drive (`D:\wsl\installs`). This bypassed Microsoft Store dependencies and established a reproducible, containerized local lab environment.
+## 📉 The Operational Problem
+* **Fragile Multi-Formatting:** Manually maintaining separate Word documents, PDFs, and plain-text resumes leads to configuration drift, typos, and formatting mismatch across platforms.
+* **PII Security Exposure:** Publicly hosting a resume on GitHub or a portfolio site risks exposing highly sensitive personal telemetry (phone numbers, private emails, exact location) to malicious scrapers and bad actors.
+* **Manual Toil:** Manually recompiling, checking formatting, and uploading assets to web servers introduces operational friction and human error.
 
-### 2. Symmetrical Build Orchestration
-A custom **Kotlin DSL Gradle task** maps compilation phases deterministically. The asset pipeline uses a linear, high-utility task execution graph:
-* **PII Sanitization:** A custom string processing engine uses optimized regular expressions to automatically mask tracking strings and private contact metrics, protecting data before pushing it to public repositories.
-* **Vector Layout Computation:** Unlike screens, print layouts require absolute coordinate calculations. The engine binds **Pandoc** and **WeasyPrint** directly, mapping typography elements cleanly to native OS vector font sets (`fonts-noto-core`) to satisfy strict W3C Paged Media layout constraints without brittle web wrappers.
-* **Conditional Profiling:** To keep production artifacts pure, intermediate debug HTML compilation passes are isolated behind a dynamic project property flag (`-Pdebug`), dynamically modifying Gradle's Directed Acyclic Graph (DAG) maps at configuration runtime.
+## 🏗️ Pipeline Architecture & Data Flow
 
-### 3. Defensive DevOps & Cleanup
-The GitHub Actions workflow includes a rigorous workspace reset loop. To prevent file accumulation decay (where renamed or deleted layout files pollute the public deployment tree), a defensive shell execution pass (`find . -maxdepth 1 ! -name '.git' -exec rm -rf {} +`) completely wipes the remote target directory before laying down the fresh asset structure.
+```text
+ [Private Repository] 
+         │
+         ▼ (git push resume.md)
+ [GitHub Actions Runner]
+         │
+         ├─► Step 1: Execute Regex Engine (Strip PII / Target Fields)
+         ├─► Step 2: Invoke Gradle Build Engine
+         │             ├─► Compile via Pandoc/Weasyprint ──► [PDF / DOCX]
+         │             └─► Sanitize raw markdown ──────────► [Clean TXT]
+         ▼
+ [Cross-Repo Secure Dispatch] ──► [Public Pages Repo] ──► [Live Portfolio Site]
+```
 
-## Observable Engineering Outcomes
-* **Zero Layout Drift:** Structural text updates made to `resume.md` automatically cascade to all four distribution formats within **~30 seconds** of a git push.
-* **Parity:** Local WSL environment output matches the GitHub Actions worker execution identically, completely eliminating cloud configuration guesswork.
-* **Optimized Footprint:** The entire compiled base OS infrastructure takes up only **~88MB** of host storage, achieving lightning-fast initialization times compared to standard heavy VM distributions.
+### 1. Build Orchestration & Dependency Engine
+* **The Engine:** Selected **Gradle** as the task-execution runner to manage compilation logic outside of standard software artifact paths. 
+* **The Compilation Layer:** Integrated markdown parsers and engines (such as Pandoc or WeasyPrint) natively into custom Gradle build scripts to ensure pixel-perfect rendering across PDF and DOCX binaries.
+
+### 2. Automated Mid-Pipeline SecOps Scrubbing
+* **The Layer:** Implemented a robust parsing phase utilizing customized regex patterns within the GitHub Actions runner environment.
+* **The Execution:** Before any public exposure occurs, the runner scans the raw SSoT file, extracts high-risk strings (phone numbers, physical addresses, private email schemas), and replaces them with environment-safe variables.
+* **The Dispatch:** The sanitized artifacts are programmatically bundled and pushed via a secure cross-repository deployment token directly into a public repository mapped to GitHub Pages.
+
+## 🚀 Engineering Impact & Results
+* **Eliminated Document Drift:** Guaranteed 100% text, layout, and content parity across all job board application formats through the SSoT framework.
+* **Zero-Touch Maintenance:** Compressed the entire modification and deployment cycle down to a standard `git push`, reducing publishing overhead to seconds.
+* **Architectural Blueprint:** Serves as a live, auditable proof-of-concept for recruiters, instantly proving hands-on mastery of CI/CD, pipeline logic, and security compliance.
+---
