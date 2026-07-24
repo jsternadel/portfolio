@@ -51,4 +51,3 @@ Engineered an automated, multi-artifact compilation pipeline that treats career 
 * **Eliminated Document Drift:** Guaranteed 100% text, layout, and content parity across all job board application formats through the SSoT framework.
 * **Zero-Touch Maintenance:** Compressed the entire modification and deployment cycle down to a standard `git push`, reducing publishing overhead to seconds.
 * **Architectural Blueprint:** Serves as a live, auditable proof-of-concept for recruiters, instantly proving hands-on mastery of CI/CD, pipeline logic, and security compliance.
----

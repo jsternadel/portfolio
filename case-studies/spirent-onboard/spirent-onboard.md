@@ -54,4 +54,3 @@ To safely alter the core networking layer of 132 live remote hosts without causi
 * **Flawless Network Execution:** Successfully configured Netplan routing and deployed the 5-agent compliance matrix across all 132 machines with **0% network dropouts or manual rescue interventions**.
 * **Rapid Lifecycle Compression:** Transitioned a highly complex networking and provisioning workflow from a projected 40+ hours of risky manual file editing to a fully automated execution completed in under an hour.
 * **Defensive Baseline Architecture:** Established a robust, repeatable blueprint for deploying foundational network changes over Ansible without risking catastrophic remote node disconnection.
----

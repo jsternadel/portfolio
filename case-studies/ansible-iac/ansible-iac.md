@@ -50,4 +50,3 @@ Independently engineered, developed, and deployed an automated patch management 
 ## 🛠️ Lessons Learned
 1. **Extreme Ownership wins:** Complex technical debt can be solved from the bottom up. Waiting for leadership training budgets or organizational readiness is a bottleneck.
 2. **Idempotency is Mandatory:** When users have root, you cannot assume state. Playbooks must behave like an intelligent janitor—cleaning up the environment before attempting to maintain it.
----

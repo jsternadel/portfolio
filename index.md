@@ -16,22 +16,17 @@ A non-traditional engineer who leverages a background in artistic creativity to 
 
 ---
 
-### Deep-Dive Architectural Briefs
-# Engineering Portfolio & Technical Documentation
-
+### Engineering Portfolio & Technical Documentation
 Welcome to my systems engineering and automation portfolio. This space hosts production-grade case studies, architectural deep dives, and live automation proofs of concept. My engineering philosophy focuses on extreme ownership, data-driven security compliance, and building resilient infrastructure within highly volatile environments.
 
 ---
-
-## Deep-Dive Architectural Briefs
-Below are first-principle engineering breakdowns of production solutions and infrastructure frameworks.
 
 * [**Solo-Driven Vulnerability Remediation**](./case-studies/ansible-iac/ansible-iac.md)
     * **Mission:** Leverage Ansible to institute automated, idempotent OS patching within a chaotic laboratory environment.
     * **Context:** Executed as a 100% solo initiative with zero baseline budget, zero corporate training, and developers holding full root access.
     * **Impact:** Flatlined persistent security debt from **100+ monthly vulnerabilities to absolute zero**, causing project managers to assume the Maya monitoring tool had broken.
 
-* [**Automated Security Fleet Bootstrapping**](./case-studies/spirent-onboarding/spirent-onboard.md)
+* [**Automated Security Fleet Bootstrapping**](./case-studies/spirent-onboard/spirent-onboard.md)
     * **Mission:** Design a modular orchestration framework to safely provision a 5-agent security compliance stack across 132 Spirent Landslide VMs.
     * **Context:** Required programmatic modification of sensitive **Netplan configurations** to inject custom IP routing tables for Illumio VEN without dropping network interfaces.
     * **Impact:** Maintained a **0% network dropout rate** across the entire remote footprint, compressing a 40+ hour high-risk manual workflow into a single-pass automated run.

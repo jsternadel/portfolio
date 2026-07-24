@@ -47,4 +47,3 @@ Instead of pulling software binaries dynamically during execution, the build uti
 * **Velocity Maximization:** Eradicated the 8-minute download-and-install phase, bringing overall local pipeline execution times down to **under 20 seconds**.
 * **Absolute Network Isolation:** Achieved 100% architectural self-sufficiency. The pipeline functions perfectly during public internet disconnects or regional mirror outages.
 * **Resource Conservation:** Substantially minimized local area network traffic and storage thrashing across the lab virtualization footprint.
----
