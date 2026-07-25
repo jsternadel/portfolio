@@ -2,6 +2,7 @@
 layout: post
 title: "Taming the Wild West: Flatlining 100+ Monthly Vulnerabilities with Zero Budget"
 date: 2026-07-24
+author: "Joshua Sternadel"
 categories: [DevOps, Automation, Security]
 tags: [ansible, cicd, security, linux, configuration-management, solo-initiative]
 ---

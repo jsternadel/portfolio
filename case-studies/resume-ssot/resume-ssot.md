@@ -2,11 +2,10 @@
 layout: post
 title: "Infrastructure as Code for Careers: Building an Automated Resume CI/CD Pipeline"
 date: 2026-07-24
+author: "Joshua Sternadel"
 categories: [DevOps, CI-CD, Automation, SecOps]
 tags: [github-actions, gradle, markdown, automation, pandoc, security]
 ---
-
-# Case Study: Single Source of Truth (SSoT) Resume CI/CD Pipeline
 
 ## 💡 Motivation: Productive Toil Elimination (I Hate MS Word)
 The driving force behind this project was a desire to completely eliminate manual documentation upkeep, combined with a deep frustration with traditional word processors. 

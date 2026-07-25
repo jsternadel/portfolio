@@ -18,16 +18,13 @@ Welcome to my systems engineering and automation portfolio. This space hosts pro
 > #### [**Automated Fleet Mobilization: Bootstrapping 132 Spirent VMs and Engineering Resilient Netplan Routing**](./case-studies/spirent-onboard/spirent-onboard.md)
 > *Designing a modular orchestration framework to safely provision a 5-agent security compliance stack across 132 Spirent Landslide VMs.*
 
+> #### [**Infrastructure as Code for Careers: Building an Automated Resume CI/CD Pipeline**](./case-studies/resume-ssot/resume-ssot.md)
+> *Treating a resume as infrastructure as code by enforcing a Single Source of Truth (SSoT)*
+
 * [**Self-Hosted CI/CD Optimization**](./case-studies/runner-optimization/runner-optimization.md)
     * **Mission:** Build a highly optimized, pre-baked Docker runner image for a local Gitea + `act_runner` setup.
     * **Context:** Hardened local build pipelines against upstream public mirror and CDN failures (e.g., Canonical repository outages).
     * **Impact:** Reduced environment bootstrap times from **8 minutes to under 20 seconds** via complete local image layer flattening and toolchain caching.
-
-* [**Automated Resume CI/CD Pipeline**](./case-studies/resume-ssot/resume-ssot.md)
-    * **Concept:** Treating personal infrastructure as code by enforcing a Single Source of Truth (SSoT).
-    * **Motivation:** Elimination of manual document toil and a deep-seated hatred for Microsoft Word. 
-    * **Pipeline:** A `git push` to a private repository triggers a GitHub Actions workflow. Gradle compiles a single `resume.md` file into web-optimized PDF, DOCX, and TXT artifacts.
-    * **SecOps:** Automated regex steps strip Personally Identifiable Information (PII) mid-pipeline before programmatically dispatching the public-facing assets directly to this GitHub Pages site.
 
 ---
 
