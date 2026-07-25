@@ -27,5 +27,32 @@ a {
 ul li a:hover, 
 ul li a:hover strong {
     color: #267CB9 !important;
-    text-decoration: underline !important;
+}
+
+blockquote {
+    position: relative !important;
+}
+  
+blockquote h4 a:hover,
+blockquote h4 a:hover strong,
+blockquote h4 a:hover > strong,
+blockquote h4 a:active strong,
+blockquote h4 a:focus strong {
+    color: #267CB9 !important;
+}
+
+blockquote:hover {
+    border-left-color: #267CB9 !important;
+    background-color: rgba(38, 124, 185, 0.05) !important;
+    cursor: pointer !important;
+}
+
+blockquote h4 a::after {
+    content: "" !important;
+    position: absolute !important;
+    top: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    z-index: 1 !important;
 }

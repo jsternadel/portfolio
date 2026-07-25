@@ -4,15 +4,6 @@ title: 'Joshua Sternadel | {$js-portfolio}'
 ---
 
 # Joshua Sternadel
-## System Architecture & Business Alignment
-
-A non-traditional engineer who leverages a background in artistic creativity to approach technical architecture without the bias of "industry-standard" stagnation. Applies spatial thinking, pattern recognition, and deep-infrastructure logic to solve complex structural problems that traditional engineering teams struggle to resolve. A self-directed technical anchor focused on building clean, frictionless distributed systems that prioritize radical automation, continuous compliance, and mission-critical stability.
-
-### Resumes
-*   [**Read Professional Resume**](./resume){:target="_blank"}
-*   [**Download PDF**](./joshua-sternadel-resume.pdf){:target="_blank"}
-*   [**Download Plain Text**](./joshua-sternadel-resume.txt){:target="_blank"}
-*   [**Download DOCX**](./joshua-sternadel-resume.docx){:target="_blank"}
 
 ---
 
@@ -24,10 +15,8 @@ Welcome to my systems engineering and automation portfolio. This space hosts pro
 > #### [**Taming the Wild West: Flatlining 100+ Monthly Vulnerabilities with Zero Budget**](/portfolio/case-studies/ansible-iac/ansible-iac.html)
 > *Leveraging Ansible to institute automated, idempotent OS patching within a chaotic laboratory environment.*
 
-* [**Automated Fleet Mobilization: Bootstrapping 132 Spirent VMs and Engineering Resilient Netplan Routing**](./case-studies/spirent-onboard/spirent-onboard.md)
-    * **Mission:** Design a modular orchestration framework to safely provision a 5-agent security compliance stack across 132 Spirent Landslide VMs.
-    * **Context:** Required programmatic modification of sensitive **Netplan configurations** to inject custom IP routing tables for Illumio VEN without dropping network interfaces.
-    * **Impact:** Maintained a **0% network dropout rate** across the entire remote footprint, compressing a 40+ hour high-risk manual workflow into a single-pass automated run.
+> #### [**Automated Fleet Mobilization: Bootstrapping 132 Spirent VMs and Engineering Resilient Netplan Routing**](./case-studies/spirent-onboard/spirent-onboard.md)
+> *Designing a modular orchestration framework to safely provision a 5-agent security compliance stack across 132 Spirent Landslide VMs.*
 
 * [**Self-Hosted CI/CD Optimization**](./case-studies/runner-optimization/runner-optimization.md)
     * **Mission:** Build a highly optimized, pre-baked Docker runner image for a local Gitea + `act_runner` setup.
@@ -39,5 +28,13 @@ Welcome to my systems engineering and automation portfolio. This space hosts pro
     * **Motivation:** Elimination of manual document toil and a deep-seated hatred for Microsoft Word. 
     * **Pipeline:** A `git push` to a private repository triggers a GitHub Actions workflow. Gradle compiles a single `resume.md` file into web-optimized PDF, DOCX, and TXT artifacts.
     * **SecOps:** Automated regex steps strip Personally Identifiable Information (PII) mid-pipeline before programmatically dispatching the public-facing assets directly to this GitHub Pages site.
+
+---
+
+### Resumes
+*   [**Read Professional Resume**](./resume){:target="_blank"}
+*   [**Download PDF**](./joshua-sternadel-resume.pdf){:target="_blank"}
+*   [**Download Plain Text**](./joshua-sternadel-resume.txt){:target="_blank"}
+*   [**Download DOCX**](./joshua-sternadel-resume.docx){:target="_blank"}
 
 ---
