@@ -8,7 +8,7 @@ title: 'Joshua Sternadel | {$js-portfolio}'
 
 A non-traditional engineer who leverages a background in artistic creativity to approach technical architecture without the bias of "industry-standard" stagnation. Applies spatial thinking, pattern recognition, and deep-infrastructure logic to solve complex structural problems that traditional engineering teams struggle to resolve. A self-directed technical anchor focused on building clean, frictionless distributed systems that prioritize radical automation, continuous compliance, and mission-critical stability.
 
-### Navigation Hub
+### Resumes
 *   [**Read Professional Resume**](./resume){:target="_blank"}
 *   [**Download PDF**](./joshua-sternadel-resume.pdf){:target="_blank"}
 *   [**Download Plain Text**](./joshua-sternadel-resume.txt){:target="_blank"}
@@ -21,8 +21,8 @@ Welcome to my systems engineering and automation portfolio. This space hosts pro
 
 ---
 
-* [**Taming the Wild West: Flatlining 100+ Monthly Vulnerabilities with Zero Budget**](./case-studies/ansible-iac/ansible-iac.md)
-    *Leveraging Ansible to institute automated, idempotent OS patching within a chaotic laboratory environment.*
+> #### [**Taming the Wild West: Flatlining 100+ Monthly Vulnerabilities with Zero Budget**](/portfolio/case-studies/ansible-iac/ansible-iac.html)
+> *Leveraging Ansible to institute automated, idempotent OS patching within a chaotic laboratory environment.*
 
 * [**Automated Fleet Mobilization: Bootstrapping 132 Spirent VMs and Engineering Resilient Netplan Routing**](./case-studies/spirent-onboard/spirent-onboard.md)
     * **Mission:** Design a modular orchestration framework to safely provision a 5-agent security compliance stack across 132 Spirent Landslide VMs.
@@ -41,15 +41,3 @@ Welcome to my systems engineering and automation portfolio. This space hosts pro
     * **SecOps:** Automated regex steps strip Personally Identifiable Information (PII) mid-pipeline before programmatically dispatching the public-facing assets directly to this GitHub Pages site.
 
 ---
-
-<!--
-### Deep-Dive Architectural Briefs
-Below are first-principles deep dives into enterprise systems I have authored and scaled.
-
-*   [**Project Porcupine**](./case-studies/porcupine-bus)
-    *   *The Mission:* Co-architecting a custom, highly reliable asynchronous message bus enabling real-time communication between disparate Fortune 500 enterprise applications.
-*   [**Project Locksmith**](./case-studies/locksmit-security)
-    *   *The Mission:* Engineering a security-centric middleware layer utilizing HashiCorp Vault with automated, zero-touch handshake protocols to secure local-to-production secrets lifecycle.
-*   [**GPS Spherical Geometry Modeling**](./case-studies/gps-geometry)
-    *   *The Mission:* Resolving telemetry "teleportation" errors in intermodal logistics by parsing raw NMEA strings and implementing rate-of-acceleration geometry for 99% coordinate accuracy.
--->
