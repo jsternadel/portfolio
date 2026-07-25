@@ -19,3 +19,9 @@ a {
     color: #267CB9;
     text-decoration: none;
 }
+
+ul li a:hover, 
+ul li a:hover strong {
+    color: #267CB9 !important;
+    text-decoration: underline !important;
+}

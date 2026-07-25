@@ -21,12 +21,10 @@ Welcome to my systems engineering and automation portfolio. This space hosts pro
 
 ---
 
-* [**Solo-Driven Vulnerability Remediation**](./case-studies/ansible-iac/ansible-iac.md)
-    * **Mission:** Leverage Ansible to institute automated, idempotent OS patching within a chaotic laboratory environment.
-    * **Context:** Executed as a 100% solo initiative with zero baseline budget, zero corporate training, and developers holding full root access.
-    * **Impact:** Flatlined persistent security debt from **100+ monthly vulnerabilities to absolute zero**, causing project managers to assume the Maya monitoring tool had broken.
+* [**Taming the Wild West: Flatlining 100+ Monthly Vulnerabilities with Zero Budget**](./case-studies/ansible-iac/ansible-iac.md)
+    *Leveraging Ansible to institute automated, idempotent OS patching within a chaotic laboratory environment.*
 
-* [**Automated Security Fleet Bootstrapping**](./case-studies/spirent-onboard/spirent-onboard.md)
+* [**Automated Fleet Mobilization: Bootstrapping 132 Spirent VMs and Engineering Resilient Netplan Routing**](./case-studies/spirent-onboard/spirent-onboard.md)
     * **Mission:** Design a modular orchestration framework to safely provision a 5-agent security compliance stack across 132 Spirent Landslide VMs.
     * **Context:** Required programmatic modification of sensitive **Netplan configurations** to inject custom IP routing tables for Illumio VEN without dropping network interfaces.
     * **Impact:** Maintained a **0% network dropout rate** across the entire remote footprint, compressing a 40+ hour high-risk manual workflow into a single-pass automated run.
@@ -41,6 +39,7 @@ Welcome to my systems engineering and automation portfolio. This space hosts pro
     * **Motivation:** Elimination of manual document toil and a deep-seated hatred for Microsoft Word. 
     * **Pipeline:** A `git push` to a private repository triggers a GitHub Actions workflow. Gradle compiles a single `resume.md` file into web-optimized PDF, DOCX, and TXT artifacts.
     * **SecOps:** Automated regex steps strip Personally Identifiable Information (PII) mid-pipeline before programmatically dispatching the public-facing assets directly to this GitHub Pages site.
+
 ---
 
 <!--

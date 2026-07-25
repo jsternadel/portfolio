@@ -2,11 +2,10 @@
 layout: post
 title: "Automated Fleet Mobilization: Bootstrapping 132 Spirent VMs and Engineering Resilient Netplan Routing"
 date: 2026-07-24
+author: "Joshua Sternadel"
 categories: [DevOps, Automation, Networking, Security]
 tags: [ansible, netplan, illumio, security, networking, linux]
 ---
-
-# Case Study: Automated Security Fleet Bootstrapping & Resilient Netplan Routing
 
 ## 📌 Executive Summary
 Engineered and executed an automated orchestration framework to onboard and standardize a distributed fleet of **132 Spirent Landslide traffic-generation virtual machines**. Designed a modular Ansible architecture to deploy a comprehensive 5-agent security compliance and telemetry stack. A critical engineering milestone of this project involved programmatically modifying **Netplan network configurations** to inject custom IP routing tables required by Illumio VEN. This was accomplished via automation with zero network layer failures or remote host lockouts.

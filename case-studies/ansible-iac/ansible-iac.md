@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Taming the Wild West Solo: How I Flatlined 100+ Monthly Vulnerabilities with Zero Budget"
+title: "Taming the Wild West: Flatlining 100+ Monthly Vulnerabilities with Zero Budget"
 date: 2026-07-24
 categories: [DevOps, Automation, Security]
 tags: [ansible, cicd, security, linux, configuration-management, solo-initiative]
 ---
-
-# Case Study: Solo-Driven Zero-to-Automation Vulnerability Remediation
 
 ## 📌 Executive Summary
 Independently engineered, developed, and deployed an automated patch management framework using Ansible within a highly volatile telecom laboratory environment. Executed this project as a **completely solo initiative** with zero baseline training resources, technical guidance, or leadership budget. Single-handedly resolved a persistent backlog of **100+ monthly vulnerabilities** on the core Maya dashboard, driving the systemic risk profile down to zero. The sudden drop in metrics was so definitive that project managers initially cross-examined the dashboard, believing the security monitoring tool itself had broken.
@@ -50,3 +48,5 @@ Independently engineered, developed, and deployed an automated patch management 
 ## 🛠️ Lessons Learned
 1. **Extreme Ownership wins:** Complex technical debt can be solved from the bottom up. Waiting for leadership training budgets or organizational readiness is a bottleneck.
 2. **Idempotency is Mandatory:** When users have root, you cannot assume state. Playbooks must behave like an intelligent janitor—cleaning up the environment before attempting to maintain it.
+
+---
