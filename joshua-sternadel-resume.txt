@@ -1,10 +1,15 @@
 Joshua Sternadel
 
-Kansas City, MO | Contact via LinkedIn jsternadel.github.io/portfolio/
+Kansas City, MO | Contact via LinkedIn
+
+jsternadel.github.io/portfolio/
+
+jsternadel.github.io/portfolio/
 
 Principal Systems Architect & DevOps Lead
 
-Specialization: Bare-Metal Infrastructure, Private Cloud (VMware), & High-Availability Automation U.S. Patent Author (#10,366,069) – Database Management & Natural Sorting Algorithms
+Specialization: Bare-Metal Infrastructure, Private Cloud (VMware), & High-Availability Automation
+U.S. Patent Author (#10,366,069) – Database Management & Natural Sorting Algorithms
 Enterprise Scale: 16 Years Systems Engineering | Tech Anchor for Fortune 500 Telecom Mergers
 
 Key Achievements
