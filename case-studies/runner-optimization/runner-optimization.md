@@ -1,49 +1,49 @@
 ---
 layout: post
-title: "Defending the Pipeline: Building an Offline-First Custom Gitea/act_runner Image"
+title: "Defending the Pipeline: Building an Offline-First Custom GitHub Actions Runner Image"
 date: 2026-07-24
+author: "Joshua Sternadel"
 categories: [DevOps, Containerization, CI-CD, Infrastructure]
-tags: [docker, gitea, act-runner, cicd, optimization, self-hosted]
+tags: [docker, github-actions, runner, cicd, optimization, self-hosted]
 ---
 
-# Case Study: Self-Hosted CI/CD Optimization & Upstream Outage Hardening
-
 ## 📌 Executive Summary
-Designed and built a highly optimized, custom Docker runner image for a local **Gitea + act_runner** CI/CD infrastructure. This project was initiated to completely eliminate a high-latency **8-minute deployment bottleneck** and insulate the automation pipeline from external upstream CDN/repository dependencies. By pre-baking the complete compilation toolchain (Java, Gradle, Pandoc, WeasyPrint) into a single baseline image layer, local pipeline execution times dropped by **over 90%**, ensuring 100% build availability even during total public network degradation.
+Designed and built a highly optimized, custom Docker runner image for a self-hosted **GitHub Actions runner** infrastructure. This project was initiated to completely eliminate a high-latency **8-minute deployment bottleneck** and insulate the automation pipeline from external upstream CDN/repository dependencies. By pre-baking the complete compilation toolchain (Java, Gradle, Pandoc, WeasyPrint) directly into the runner's baseline container layer, local pipeline execution times dropped by **over 90%**, ensuring 100% build availability even during major public package mirror and network degradation.
 
 ## 💡 Motivation: Defending against Upstream Cascading Failures
-Relying on public hosting environments or downloading heavy software packages dynamically introduces significant infrastructure vulnerabilities:
-* **The Canonical CDN Bottleneck:** When public package mirrors or CDNs experience service interruptions, local automation pipelines break instantly, halting deployments.
-* **The 8-Minute Build Debt:** Forcing an ephemeral container runner to pull, download, and install massive external packages (such as layout engines or system fonts) on *every single push* introduces unacceptable operational toil. I chose to build a permanent, cached local solution.
+Relying on ephemeral public workflows to download heavy software packages dynamically introduces significant infrastructure vulnerabilities:
+* **The CDN Outage Problem:** When public package mirrors, upstream CDNs, or repository endpoints experience network aneurysms or service interruptions, automated deployment pipelines break instantly.
+* **The 8-Minute Build Debt:** Forcing an ephemeral runner to execute runtime package managers (`apt`, `dnf`, etc.) to pull and install massive layout engines, dependencies, or system fonts on *every single push* introduces unacceptable operational toil. I chose to build a permanent, cached local execution environment.
 
 ## 🏗️ Optimized Runner Architecture
 
 ```text
- [Generic Ubuntu Base Image] ---> Installs Java, Pandoc, Fonts, WeasyPrint (8 mins)
+ [Generic Ubuntu Base Image] ---> Run apt/dnf installs (Java, Pandoc, Fonts, WeasyPrint)
                                           │
                                           ▼ [Layer Flattening & Optimization]
-                            [Pre-Baked Custom Runner Image]
+                       [Pre-Baked Custom GitHub Actions Runner Image]
                                           │
     ┌─────────────────────────────────────┴─────────────────────────────────────┐
-    ▼ (git push to Gitea)                                                       ▼ (Upstream Outage)
-[Local act_runner Daemon]                                                  [Canonical CDN Offline]
+    ▼ (git push triggers pipeline)                                              ▼ (Upstream Outage)
+[Self-Hosted GitHub Runner Daemon]                                         [Public CDNs Offline]
     │                                                                           │
-    ├─► Instantly Mounts Pre-Baked Container                                    ❌ (Zero Impact)
-    ├─► Zero Download Latency (Local Cache)                                     │
+    ├─► Instantly Spins Up Pre-Baked Toolchain Container                       ❌ (Zero Impact)
+    ├─► Zero Runtime Apt/Dnf Fetch Latency                                      │
     ▼                                                                           ▼
 [Live Multi-Format Compilation Completes in Seconds]                        [Pipeline Stays 100% Online]
 ```
 
 ### 1. Multi-Stage Toolchain Pre-Baking
-Instead of pulling software binaries dynamically during execution, the build utilities are shifted entirely left into the immutable image-building process:
+Instead of pulling software binaries dynamically via package managers during workflow execution, the build utilities are shifted entirely left into the immutable container-building process:
 * **Runtime Layer:** Bundles a minimal headless Java Runtime Environment (JRE) required to orchestrate Gradle tasks natively.
 * **Compilation Layer:** Embeds pinned versions of `pandoc` along with required system layout fonts and styling engines to handle immediate Markdown-to-PDF conversion without requiring runtime network fetches.
 
-### 2. act_runner Environment Integration
-* Configured the local Gitea instance to route specific compilation tags (e.g., `runs-on: custom-gradle-runner`) straight to the self-hosted Docker daemon.
-* Eliminates container startup overhead by relying on local image layers already resident on the host storage network.
+### 2. Self-Hosted Execution Loop
+* Configured the local system infrastructure to run the native GitHub Actions runner application daemon, linking it directly to the repository orchestration layer.
+* Designed the workflow files to explicitly target local container resources, completely bypassing the dependency on hosted cloud virtual machines.
 
 ## 🚀 Business Impact & Results
-* **Velocity Maximization:** Eradicated the 8-minute download-and-install phase, bringing overall local pipeline execution times down to **under 20 seconds**.
-* **Absolute Network Isolation:** Achieved 100% architectural self-sufficiency. The pipeline functions perfectly during public internet disconnects or regional mirror outages.
-* **Resource Conservation:** Substantially minimized local area network traffic and storage thrashing across the lab virtualization footprint.
+* **Velocity Maximization:** Eradicated the 8-minute download-and-install phase, bringing overall deployment pipeline execution times down to **under 20 seconds**.
+* **Absolute Network Isolation:** Achieved 100% architectural self-sufficiency. The pipeline functions perfectly during public internet disconnects or regional package mirror outages.
+* **Resource Conservation:** Substantially minimized local area network traffic and storage thrashing across the lab footprint.
+---
