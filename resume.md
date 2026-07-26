@@ -1,8 +1,5 @@
 # Joshua Sternadel
-**Kansas City, MO | [Contact via LinkedIn](https://linkedin.com)**
-
-[jsternadel.github.io/portfolio/](https://github.io)
-
+**Kansas City, MO | [Contact via LinkedIn](https://linkedin.com)** \
 [jsternadel.github.io/portfolio/](https://jsternadel.github.io/portfolio/)
 
 ## Principal Systems Architect & DevOps Lead
