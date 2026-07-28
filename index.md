@@ -10,10 +10,13 @@ title: 'Joshua Sternadel | {$js-portfolio}'
 ### Engineering Portfolio & Technical Documentation
 Welcome to my systems engineering and automation portfolio. This space hosts production-grade case studies, architectural deep dives, and live automation proofs of concept. My engineering philosophy focuses on extreme ownership, data-driven security compliance, and building resilient infrastructure within highly volatile environments.
 
-> #### [**Taming the Wild West: Flatlining 100+ Monthly Vulnerabilities with Zero Budget**](./case-studies/ansible-iac/ansible-iac.html)
+> #### [**Taming the Wild West: Flatlining 100+ Monthly Vulnerabilities with Zero Budget**](./case-studies/ansible/ansible-iac.html)
 > *Leveraging Ansible to institute automated, idempotent OS patching within a chaotic laboratory environment.*
 
-> #### [**Automated Fleet Mobilization: Bootstrapping 132 Spirent VMs and Engineering Resilient Netplan Routing**](./case-studies/spirent-onboard/spirent-onboard.html)
+> #### [**Event-Driven Remediation: Engineering an Automated Ansible-to-Jira Telemetry Pipeline**](./case-studies/ansible/ansible-to-jira.md)
+> *Eliminating tedious Third-Thursday manual AAP log checks because every part of a scheduled task should handle itself*
+
+> #### [**Automated Fleet Mobilization: Bootstrapping 132 Spirent VMs and Engineering Resilient Netplan Routing**](./case-studies/ansible/spirent-onboard.html)
 > *Designing a modular orchestration framework to safely provision a 5-agent security compliance stack across 132 Spirent Landslide VMs.*
 
 > #### [**Infrastructure as Code for Careers: Building an Automated Resume CI/CD Pipeline**](./case-studies/resume-ssot/resume-ssot.html)
@@ -21,6 +24,12 @@ Welcome to my systems engineering and automation portfolio. This space hosts pro
 
 > #### [**Defending the Pipeline: Building an Offline-First Custom GitHub Actions Runner Image**](./case-studies/runner-optimization/runner-optimization.html)
 > *Hardening build pipelines against upstream public mirror and CDN failures (e.g., Canonical repository outages)*
+
+> #### [**Enterprise Renaissance: Solving the Mundane to Reclaim Human Cognition**](./case-studies/philosophies/renaissance-enterprise.md)
+> *Freeing cognitive capital by applying the structural mechanics of the Renaissance to enterprise operations*
+
+> #### [**Autonomous Swarms: Bio-Inspired Epidemic Routing and Pheromone-Based Mesh Protocols**](./case-studies/novel-ideas/swarm-intelligence.md)
+> *Synthesizing ant colonies, bee swarms, and drone warfare*
 
 ---
 
