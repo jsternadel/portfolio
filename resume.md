@@ -23,9 +23,11 @@
 ### T-Mobile \| Principal Solutions Architect & DevOps Engineer \| 2021 to 2026
 
 
-- **Enterprise Cloud Migration:** Architected and executed the high-integrity migration of a decade’s worth of metadata, complex workflows, and mission-critical certification data from Jira Data Center to Jira Cloud; successfully preserved zero-loss continuity across 300+ proprietary device projects supporting 3,000+ active enterprise users.
+- **Cross-tenant Enterprise Cloud Migration:** Architected and executed the zero-loss migration of 10+ years of metadata, complex workflows, and device certification data from Sprint’s Jira Data Center to T-Mobile’s Jira Cloud in just 3 months. Deployed a custom PHP translation framework to route and sync complex schema across systems, maintaining zero operational downtime for 3,000+ active enterprise users.
 
-- **Ecosystem Integration & APIs:** Authored a specialized suite of Node.js libraries and Node-RED nodes to automate full-lifecycle project provisioning via Atlassian APIs, creating a “self-service” ecosystem for developers.
+- **Tooling Reuse & Ecosystem Dashboard:** Ported custom framework tooling and hydration engines to build internal tool ecosystem dashboards. Reduced boilerplate code by 10x and eliminated development overhead across internal application environments.
+
+- **Automated Incident Integration Pipeline:** Authored custom fluent SDKs in Node.js and PHP for Atlassian APIs, creating custom Node-RED nodes and REST endpoints. Integrated this pipeline with Ansible to capture deployment errors, parse JSON payloads, and automatically generate structured Jira tickets for real-time incident tracking.
 
 - **Infrastructure as Code (IaC):** Bridged the gap between Software Engineering and Systems Administration by implementing Infrastructure as Code (IaC) via Ansible, successfully reducing manual operational toil and human error.
 
@@ -35,8 +37,6 @@
 
 - **Full-Lifecycle Application Engineering (Angular & Serverless):** Authored and launched a high-visibility 5G Speed Calculator application utilizing Angular and a modern serverless deployment pipeline to ensure instant scalability and zero infrastructure overhead.
 
-- **Device State Automation:** Designed and engineered a custom Device Pre-Load Feature Enablement Tracker, providing corporate stakeholders with real-time visibility into baseline software states across mobile devices.
-
 - **UI/UX Optimization:** Bridged the gap between UI/UX design concepts and technical feasibility, establishing strict component styling and layout standards to ensure frontend performance and visual consistency.
 
 ### Sprint \| Principal Engineer & Application Developer III \| 2017 to 2021
@@ -44,13 +44,11 @@
 
 - **Executive Technical Governance:** Served as Core Technical Advisor and Architectural Gatekeeper to leadership; held final engineering sign-off authority to halt high-risk regressions across all cross-functional integrations.
 
-- **Full-Stack Architectural Execution:** Directed and executed a "First Principles" replacement for legacy SKU management, delivering a high-performance system in 6 months that outpaced a decade of failed initiatives; single-handedly engineered 100% of the frontend application layer while orchestrating the Porcupine message bus, designing core Jira workflows, and directing backend code reviews to guarantee architectural alignment.
+- **Full-Stack Architectural Execution:** Handed a critical enterprise SKU bottleneck that had suffered through a decade of failed attempts. Took complete ownership of the solution strategy and architecture, single-handedly engineering 100% of the frontend application layer while orchestrating the underlying Porcupine message bus to deliver a high-performance production system in just 6 months.
 
 - **Distributed Systems:** Designed and deployed “Porcupine,” a custom event-driven message bus architected on top of RabbitMQ; seamlessly synchronized live Jira workflow states with downstream application environments, establishing a single source of truth and eliminating cross-system data lag.
 
-- **Framework Engineering:** Engineered a custom, data-agnostic PHP framework utilizing reflection and annotations to automate the CRUD lifecycle across disparate schemas (SQL, NoSQL, JSON, XML).
-
-- **Data Abstraction & Hydration:** Developed a model-driven hydration engine that abstracted away storage-layer complexity, allowing for seamless state transitions between relational and non-relational data sources.
+- **Custom Data Framework & Universal Hydration Engine:** Engineered a data-agnostic PHP framework with a custom hydration engine using reflection and annotations. Treated disparate data formats (SQL, NoSQL, JSON, XML, HTML) as unified entity-managed ORM models—abstracting storage-layer complexity and reducing boilerplate code by 10x for new service onboarding.
 
 - **Scale & Adoption:** Prototyped and deployed the framework to internal high-value T-Mobile applications, proving a 10x reduction in “boilerplate” code for new service onboarding.
 
@@ -69,7 +67,7 @@
 
 - **Systems-Level Engineering Transition:** Capitalized on hardware validation background to bridge the gap between device testing and robust application development, driving strict performance constraints into early-stage software architecture.
 
-- **Full-Stack Application Architecture:** Engineered a specialized visual prototyping platform featuring a drag-and-drop grid system to simulate and design Out-of-Box Experiences (OOBE); integrated background profiling engines to capture real-time CPU, RAM, storage, and battery metrics alongside automated Play Store data scraping.
+- **Full-Stack Application Architecture:** Conceived, architected, and built a visual drag-and-drop prototyping platform to simulate Out-of-Box Experiences. Integrated custom telemetry engines directly into the app to capture real-time CPU, RAM, and battery metrics for device validation.
 
 - **Database Engineering & Tooling:** Authored the foundational codebase for the Device Development and Certification requirements and test-plan database, laying the groundwork for scalable documentation and testing.
 
@@ -85,7 +83,7 @@
 ### MO-KAN Container Services \| System Administrator \| 2011 to 2012
 
 
-- **Multi-Site Infrastructure Governance:** Directed end-to-end technology operations across 3 distributed corporate locations; modernized legacy environments by deploying virtualized, redundant VMware infrastructures that cut enterprise downtime by 90%.
+- **Multi-Site Infrastructure Governance:** Directed end-to-end technology operations across 3 distributed corporate locations; modernized legacy environments by deploying virtualized, redundant infrastructures that cut enterprise downtime by 90%.
 
 ## Additional Relevant Experience
 

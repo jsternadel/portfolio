@@ -41,7 +41,7 @@ Engineered and executed an automated orchestration framework to onboard and stan
 ```
 
 ### 1. Defensive Netplan & Routing Automation
-To safely alter the core networking layer of 132 live remote hosts without causing split-brain dropouts, the playbook implemented a defensive execution pipeline:
+To safely alter the core networking layer of 132 live remote hosts without causing split-brain dropouts, I engineered a defensive execution pipeline:
 * **Staged Templating:** Utilized Ansible `template` modules to generate precise, valid YAML configurations inside a staging directory (`/etc/netplan/.stage/`), keeping existing production files completely untouched during transit.
 * **Automated Linting & Pre-flight:** Executed remote validation checks (`netplan try --timeout 45`) via the automation engine. This ensured that if a routing configuration caused a drop in connectivity, the host automatically rolled back to its last known good network state.
 * **Policy-Based Routing:** Successfully programmatically mapped explicit route tables, gateways, and interface bindings required to segregate Illumio management traffic from high-throughput Spirent simulation traffic.
