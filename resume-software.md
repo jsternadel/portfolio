@@ -5,7 +5,7 @@
 ## Principal Software Engineer | Full-Stack Applications
 **Core Competencies:** Modern Angular (v16+), TypeScript, Node.js, Distributed Systems, & High-Performance UI/UX \
 **U.S. Patent Author (#10,366,069)** – Database Management & Natural Sorting Algorithms \
-**Enterprise Scale:** 16 Years Systems Engineering | Tech Anchor for Fortune 500 Telecom Mergers
+**Enterprise Scale:** 13 Years Systems Engineering | Tech Anchor for Fortune 500 Telecom Mergers
 
 ## Key Achievements
 

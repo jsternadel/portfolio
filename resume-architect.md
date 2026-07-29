@@ -5,7 +5,7 @@
 ## Principal Systems Architect & DevOps Lead
 **Core Competencies:** Bare-Metal & Private Cloud Infrastructure (VMware), Ansible IaC, DevSecOps, & Site Reliability \
 **U.S. Patent Author (#10,366,069)** – Database Management & Natural Sorting Algorithms \
-**Enterprise Scale:** 16 Years Systems Engineering | Tech Anchor for Fortune 500 Telecom Mergers
+**Enterprise Scale:** 13 Years Systems Engineering | Tech Anchor for Fortune 500 Telecom Mergers
 
 ## Key Achievements
 

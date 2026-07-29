@@ -5,7 +5,7 @@
 ## Staff Solutions Engineer & Principal Systems Architect
 **Core Competencies:** Full-Stack Architecture (Angular, TypeScript, Node.js), Custom Framework Engineering, Systems Automation & Legacy Migration  
 **U.S. Patent Author (#10,366,069)** – Database Management & Natural Sorting Algorithms  
-**Enterprise Scale:** 16 Years Systems Engineering | Tech Anchor for Fortune 500 Telecom Mergers
+**Enterprise Scale:** 13 Years Systems Engineering | Tech Anchor for Fortune 500 Telecom Mergers
 
 ## Key Achievements
 
