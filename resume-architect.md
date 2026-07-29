@@ -58,8 +58,9 @@
 
 ## Additional Relevant Experience
 
-**Trucking Central | Software Consultant (Contract):** Planned, developed, and tested Android-based GPS solutions for the intermodal supply chain industry. \
-**Innovative Solutions | Mobile Solutions Technician:** Troubleshot and fixed Nextel devices for first responders and construction businesses, listened to client needs, and leveraged emerging technologies to find solutions for those needs. \
+**Trucking Central | Software Consultant (Contract):** Planned, developed, and tested Android-based GPS solutions for the intermodal supply chain industry.
+
+**Innovative Solutions | Mobile Solutions Technician:** Troubleshot and fixed Nextel devices for first responders and construction businesses, listened to client needs, and leveraged emerging technologies to find solutions for those needs.
 
 ## Community Impact & Leadership
 
