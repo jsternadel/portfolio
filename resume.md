@@ -3,7 +3,7 @@
 [jsternadel.github.io/portfolio/](https://jsternadel.github.io/portfolio/)
 
 ## Principal Systems & Software Engineer
-**Core Competencies:** Full-Stack Architecture (Angular/Node/.NET), Infrastructure Automation, & High-Availability Systems \
+**Core Competencies:** Full-Stack Architecture (Angular/Node/PHP/.NET), Infrastructure Automation, & High-Availability Systems \
 **U.S. Patent Author (#10,366,069)** – Database Management & Natural Sorting Algorithms \
 **Enterprise Scale:** 13 Years Systems Engineering \| Tech Anchor for Fortune 500 Telecom Mergers
 
