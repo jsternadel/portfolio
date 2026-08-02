@@ -23,19 +23,17 @@
 ### T-Mobile \| Principal Solutions Architect & DevOps Engineer \| 2021 to 2026
 
 
-- **Architected and executed** the zero-loss migration of 10+ years of Sprint Jira Data Center metadata and device certification data to T-Mobile’s Jira Cloud within 3 months, maintaining zero downtime for 3,000+ active enterprise users via a custom PHP hydration framework.
+- **Architected and executed** the zero-loss migration of 10+ years of Sprint Jira Data Center metadata and device certification data to T-Mobile’s Jira Cloud within 3 months, maintaining zero downtime for 3,000+ active enterprise users via a custom PHP syncing framework.
 
 - **Engineered a custom automation framework** by authoring fluent Node.js API SDKs and Node-RED nodes integrated with Ansible to instantly capture runtime playbook errors and auto-generate structured Jira incidents.
 
-- **Automated multi-distribution Linux patching** (RHEL, SUSE, Ubuntu, Debian) across 97 hosts using Ansible and AAP, scaling operations to achieve a 97% success rate within 180 days and eliminating a critical vulnerability backlog.
+- **Flatlined a critical vulnerability backlog** of 100+ monthly exploits across 97 hosts, solo-engineering an idempotent Ansible patch management framework managing the full deployment lifecycle of core enterprise security agents in an a lab environment where developers retained root access.
 
-- **Developed modular Ansible playbooks** to manage the full deployment lifecycle of core enterprise security and monitoring agents, including SentinelOne, Illumio VEN, Nessus Tenable, Nagios NCPA, and Splunk Forwarder.
+- **Authored a serverless Angular Universal & Express application** that served as a high-visibility 5G Speed Calculator for the network team, guaranteeing instant scalability and zero baseline infrastructure overhead.
 
-- **Streamlined lab provisioning** by automating the onboarding of 132 Spirent Landslide VMs, dynamically modifying Netplan network configurations on the fly to preserve production uptime for Illumio VEN.
+- **Architected the "Branded Experience Portal" monorepo**, engineering highly performant, T-Mobile-themed universal components optimized for modular distribution as independent corporate NPM packages.
 
-- **Launched a high-visibility 5G Speed Calculator** application using Angular and a serverless pipeline, while establishing strict frontend component styling and layout standards to optimize UI/UX performance.
-
-- **Served as Lead Merger Architect** to design secure, air-gapped Atlassian infrastructure environments for the DISH network transition, successfully satisfying rigorous federal compliance and data governance mandates.
+- **Automated fleet mobilization** across 132 Spirent Landslide traffic-generation VMs, programmatically modifying Netplan configurations using defensive Ansible staging loops to eliminate remote host lockouts.
 
 ### Sprint \| Principal Engineer & Application Developer III \| 2017 to 2021
 
@@ -87,12 +85,12 @@
 ### Trucking Central \| Software Consultant (Contract)
 
 
-* **Developed mobile supply chain solutions**, engineering early Android-based GPS applications and telematics integrations optimized for real-time intermodal logistics tracking.
+- **Developed mobile supply chain solutions**, engineering early Android-based GPS applications and telematics integrations optimized for real-time intermodal logistics tracking.
 
 ### Innovative Solutions \| Mobile Solutions Technician
 
 
-* **Engineered tactical hardware solutions**, deploying and optimizing Nextel communication devices and mobile diagnostic frameworks for municipal first responders and commercial operations.
+- **Engineered tactical hardware solutions**, deploying and optimizing Nextel communication devices and mobile diagnostic frameworks for municipal first responders and commercial operations.
 
 ## Technical Environment Matrix
 
