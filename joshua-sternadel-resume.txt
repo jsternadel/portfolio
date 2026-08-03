@@ -22,7 +22,7 @@ Professional Experience
 
 T-Mobile | Principal Solutions Architect & DevOps Engineer | 2021 to 2026
 
--   Architected and executed the zero-loss migration of 10+ years of Sprint Jira Data Center metadata and device certification data to T-Mobile’s Jira Cloud within 3 months, maintaining zero downtime for 3,000+ active enterprise users via a custom PHP syncing framework.
+-   Architected and executed the zero-loss migration of 10+ years of Sprint Jira Data Center metadata and device certification data to T-Mobile’s Jira Cloud within 3 months, maintaining zero downtime for 3,000+ active enterprise users via a custom PHP hydration framework.
 
 -   Engineered a custom automation framework by authoring fluent Node.js API SDKs and Node-RED nodes integrated with Ansible to instantly capture runtime playbook errors and auto-generate structured Jira incidents.
 
@@ -36,7 +36,9 @@ T-Mobile | Principal Solutions Architect & DevOps Engineer | 2021 to 2026
 
 Sprint | Principal Engineer & Application Developer III | 2017 to 2021
 
--   Architected and engineered “Porcupine”, a custom event-driven message bus on RabbitMQ that consumed live Jira workflow states to drive real-time automation and eliminate cross-system data lag. Automated a legacy, 10-year-old enterprise SKU bottleneck within 6 months by designing a Human-in-the-Loop (HITL) automation pipeline and single-handedly engineering 100% of the frontend application layer for the SKU Portal.
+-   Architected and engineered “Porcupine”, a custom event-driven message bus on RabbitMQ that consumed live Jira workflow states to drive real-time automation and eliminate cross-system data lag.
+
+-   Automated a legacy, 10-year-old enterprise SKU bottleneck within 6 months by designing a Human-in-the-Loop (HITL) automation pipeline and single-handedly engineering 100% of the frontend application layer for the SKU Portal.
 
 -   Streamlined complex retail system mappings by integrating the SKU Portal with Porcupine, coordinating technical data inference with multi-stage TPM and reviewer approval workflows.
 
