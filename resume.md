@@ -3,7 +3,7 @@
 [jsternadel.github.io/portfolio/](https://jsternadel.github.io/portfolio/)
 
 ## Principal Systems & Software Engineer
-**Core Competencies:** Full-Stack Architecture (Angular/Node/PHP/.NET) \| Infrastructure Automation (Ansible, AAP) \| Resilient Systems Design \
+**Core Competencies:** Full-Stack Architecture (Angular/Node/PHP) \| Infrastructure Automation (Ansible, AAP) \| Resilient Systems Design \
 **Enterprise Scale:** 13+ Years Systems Engineering \| Core Technical Advisor and Anchor for Fortune 500 Telecom Mergers
 
 ## Key Achievements
@@ -97,13 +97,13 @@
 
 - **Patents & Core Innovation:** US Patent #10,366,069 (Systems and Methods for Database Management and Administration)
 
-- **Architectural Disciplines:** Systems Architecture, Distributed Systems, Microservices, API Gateway Design, Platform Abstractions, SRE, DevSecOps, Enterprise Cloud Migration
+- **Architectural Disciplines:** Systems Architecture, Distributed Systems, Microservices, API Design, Platform Abstractions, Developer Experience (DevEx), Internal Tooling Design, SRE, DevSecOps, Enterprise Cloud Migration
 
 - **Infrastructure & Automation:** Ansible, Ansible Automation Platform (AAP), Infrastructure as Code (IaC), CI/CD Pipelines, Node-RED, Core XML Scripting, Serverless, VMware vSphere/ESXi, iSCSI SAN Architecture
 
 - **Data Engineering & Distributed Ecosystems:** RabbitMQ (Porcupine Message Bus), Dremio (Lakehouse Federation), Zero-ETL Query Federation, ELK Stack, Prometheus, Grafana, PostgreSQL, MS SQL, MongoDB, Rocket.Chat Integration
 
-- **Backend Environments & Languages:** Node.js Runtime, .NET Core (2.x), C#, PHP, Native Modules, REST APIs & Custom SDK Development, Zero-Dependency Design, Custom ORM Design
+- **Backend Environments & Languages:** Node.js Runtime, .NET Core (2.x), C#, PHP, Native Modules, REST APIs, Custom SDK Development, Zero-Dependency Design, Custom ORM Design
 
 - **Frontend Web Frameworks:** Angular (Pre-1.0 to v15), Vue.js 2, TypeScript, JavaScript (ES6+), Client-Side Architecture, UI/UX Performance Optimization
 
