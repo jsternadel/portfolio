@@ -25,8 +25,8 @@ Welcome to my systems engineering and automation portfolio. This space hosts pro
 > #### [**Defending the Pipeline: Building an Offline-First Custom GitHub Actions Runner Image**](./case-studies/runner-optimization/runner-optimization.html)
 > *Hardening build pipelines against upstream public mirror and CDN failures (e.g., Canonical repository outages)*
 
-> #### [**Enterprise Renaissance: Solving the Mundane to Reclaim Human Cognition**](./case-studies/philosophies/renaissance-enterprise.md)
-> *Freeing cognitive capital by applying the structural mechanics of the Renaissance to enterprise operations*
+<!-- > #### [**Enterprise Renaissance: Solving the Mundane to Reclaim Human Cognition**](./case-studies/philosophies/renaissance-enterprise.md)
+> *Freeing cognitive capital by applying the structural mechanics of the Renaissance to enterprise operations* -->
 
 > #### [**Autonomous Swarms: Bio-Inspired Epidemic Routing and Pheromone-Based Mesh Protocols**](./case-studies/novel-ideas/swarm-intelligence.md)
 > *Synthesizing ant colonies, bee swarms, and drone warfare*
