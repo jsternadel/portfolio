@@ -32,7 +32,7 @@ Software engineer with 15+ years of experience building enterprise systems acros
 
 - Migrated 10+ years of Sprint Jira Data Center metadata and device certification data to Jira Cloud in 3 months with zero downtime for 3,000+ enterprise users, using a data-agnostic PHP framework originally developed at Sprint to hydrate and transform data across remote JSON APIs and local ORM sources.
 - Built Node.js SDKs and Node-RED integrations with Ansible to capture playbook failures and automatically generate structured Jira incidents.
-- - Automated fleet mobilization across **132 Spirent Landslide traffic-generation VMs** using Ansible, programmatically updating Netplan configurations and staging changes to prevent host lockouts.
+- Automated fleet mobilization across **132 Spirent Landslide traffic-generation VMs** using Ansible, programmatically updating Netplan configurations and staging changes to prevent host lockouts.
 - Built an idempotent Ansible patch-management framework to automate remediation of a vulnerability backlog spanning **100+ monthly exploits across 97 hosts**.
 - Delivered a serverless Angular Universal and Express-based 5G Speed Calculator using AWS Lambda microservices, eliminating dedicated application infrastructure and simplifying deployment.
 - Architected the Branded Experience Portal as an Angular monorepo with reusable component libraries structured for future distribution as independent corporate NPM packages.
@@ -53,7 +53,7 @@ Software engineer with 15+ years of experience building enterprise systems acros
 
 - Built a drag-and-drop prototyping platform for Out-of-Box Experience (OOBE) simulation, including validation engines that captured CPU, RAM, and battery telemetry from mobile devices.
 - Hardened the Device Development and Certification requirements database for production by introducing component-based jQuery architecture, strict database transactions, and Jira-driven publishing controls.
-- Built and maintained proprietary import/export workflows for device certification and development data.
+- Built the device certification Excel import/export workflow into a controlled data exchange: generated constrained workbooks with only approved fields editable, validated and parsed returned files, and applied certification updates to the database within strict transactions that could roll back on errors.
 - Led weekly engineering reviews with retail testing leadership to troubleshoot system anomalies and coordinate SLATE release timelines.
 
 ### EXPERIS (Contractor at Sprint) \| Technical Support Rep II \| 2012–2013
