@@ -2,8 +2,8 @@
 **Kansas City, MO | js.sternadel@gmail.com | 785-331-8327** \
 [jsternadel.github.io/portfolio/](https://jsternadel.github.io/portfolio/)
 
-## Principal Systems Architect & DevOps Lead
-**Core Competencies:** Bare-Metal & Private Cloud Infrastructure (VMware) | Ansible IaC | DevSecOps | Site Reliability \
+## Principal Systems & Software Engineer
+**Core Competencies:** Full-Stack Architecture (Angular/Node/PHP) | Infrastructure Automation (Ansible, AAP) | Resilient Systems Design \
 **Enterprise Scale:** 13+ Years Systems Engineering | Core Technical Advisor and Anchor for Fortune 500 Telecom Mergers
 
 ## Key Achievements
@@ -18,7 +18,7 @@
 
 ### T-Mobile | Principal Solutions Architect & DevOps Engineer | 2021 to 2026
 
-- **Architected and executed** the zero-loss migration of 10+ years of Sprint Jira Data Center metadata and device certification data to T-Mobile’s Jira Cloud within 3 months, maintaining zero downtime for 3,000+ active enterprise users via a custom PHP syncing framework.
+- **Architected and executed** the zero-loss migration of 10+ years of Sprint Jira Data Center metadata and device certification data to T-Mobile’s Jira Cloud within 3 months, maintaining zero downtime for 3,000+ active enterprise users via a custom PHP hydration framework.
 - **Engineered a custom automation framework** by authoring fluent Node.js API SDKs and Node-RED nodes integrated with Ansible to instantly capture runtime playbook errors and auto-generate structured Jira incidents.
 - **Flatlined a critical vulnerability backlog** of 100+ monthly exploits across 97 hosts, solo-engineering an idempotent Ansible patch management framework managing the full deployment lifecycle of core enterprise security agents in an a lab environment where developers retained root access.
 - **Authored a serverless Angular Universal & Express application** that served as a high-visibility 5G Speed Calculator for the network team, guaranteeing instant scalability and zero baseline infrastructure overhead.
@@ -28,7 +28,7 @@
 ### Sprint | Principal Engineer & Application Developer III | 2017 to 2021
 
 - **Architected and engineered "Porcupine"**, a custom event-driven message bus on RabbitMQ that consumed live Jira workflow states to drive real-time automation and eliminate cross-system data lag.
-**Automated a legacy, 10-year-old enterprise SKU bottleneck** within 6 months by designing a Human-in-the-Loop (HITL) automation pipeline and single-handedly engineering 100% of the frontend application layer for the SKU Portal.
+- **Automated a legacy, 10-year-old enterprise SKU bottleneck** within 6 months by designing a Human-in-the-Loop (HITL) automation pipeline and single-handedly engineering 100% of the frontend application layer for the SKU Portal.
 - **Streamlined complex retail system mappings** by integrating the SKU Portal with Porcupine, coordinating technical data inference with multi-stage TPM and reviewer approval workflows.
 - **Engineered a data-agnostic PHP framework** featuring a custom hydration engine using reflection and annotations, unifying disparate data formats (SQL, NoSQL, JSON, XML) into an entity-managed ORM that reduced boilerplate by 10x.
 - **Architected and validated a Dremio data lakehouse POC** to federate data layers across distributed MS SQL, MySQL, and MongoDB environments, successfully proving zero-ETL query federation across relational and NoSQL silos.
@@ -67,10 +67,10 @@
 ## Technical Environment Matrix
 
 - **Patents & Core Innovation:** US Patent #10,366,069 (Systems and Methods for Database Management and Administration)
-- **Architectural Disciplines:** Systems Architecture, Distributed Systems, Microservices, API Gateway Design, Platform Abstractions, SRE, DevSecOps, Enterprise Cloud Migration
+- **Architectural Disciplines:** Systems Architecture, Distributed Systems, Microservices, API Design, Platform Abstractions, Developer Experience (DevEx), Internal Tooling Design, SRE, DevSecOps, Enterprise Cloud Migration
 - **Infrastructure & Automation:** Ansible, Ansible Automation Platform (AAP), Infrastructure as Code (IaC), CI/CD Pipelines, Node-RED, Core XML Scripting, Serverless, VMware vSphere/ESXi, iSCSI SAN Architecture
 - **Data Engineering & Distributed Ecosystems:** RabbitMQ (Porcupine Message Bus), Dremio (Lakehouse Federation), Zero-ETL Query Federation, ELK Stack, Prometheus, Grafana, PostgreSQL, MS SQL, MongoDB, Rocket.Chat Integration
-- **Backend Environments & Languages:** Node.js Runtime, .NET Core (2.x), C#, PHP, Native Modules, REST APIs & Custom SDK Development, Zero-Dependency Design, Custom ORM Design
+- **Backend Environments & Languages:** Node.js Runtime, .NET Core (2.x), C#, PHP, Native Modules, REST APIs, Custom SDK Development, Zero-Dependency Design, Custom ORM Design
 - **Frontend Web Frameworks:** Angular (Pre-1.0 to v15), Vue.js 2, TypeScript, JavaScript (ES6+), Client-Side Architecture, UI/UX Performance Optimization
 
 ## Community Impact & Leadership

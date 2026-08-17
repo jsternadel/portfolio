@@ -8,7 +8,7 @@ tags: [drones, mesh-networking, biomimicry, epidemic-routing, swarm-intelligence
 ---
 
 ## 📌 Executive Summary
-Centralized command-and-control architectures fail in contested, high-latency, or denied-communications environments. To achieve true unit autonomy, drone swarms require a decentralized communication fabric. This paper outlines a bio-inspired networking protocol utilizing dynamic synthetic pheromone decay and gradient-weighted epidemic retransmission—enabling emergent swarm coordination without central orchestration.
+A decentralized swarm has a fundamental challenge: a node may need to rapidly announce a change in the environment, but there may be no reliable command authority to coordinate a response. The network must decide which signals deserve amplification and which should naturally decay.
 
 ## 🐝 1. Bio-Mimicry & Emergent Behavior
 * **Decentralized Signal Trails:** Rather than maintaining full routing tables, nodes deposit directional "synthetic pheromones" (decaying spatial metadata) into the local mesh network.
