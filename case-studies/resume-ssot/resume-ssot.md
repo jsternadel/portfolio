@@ -43,12 +43,14 @@ Markdown became the source of truth.
 
 From that source, the system needed to produce the formats required for applications and publishing:
 
+```
 resume.md
     │
     ├──► PDF
     ├──► DOCX
     ├──► TXT
     └──► Web
+```
 
 The important part was that these files were no longer independently maintained documents.
 
@@ -75,6 +77,7 @@ The build system should answer:
 
 That became the division of responsibility:
 
+```
 Git push
    │
    ▼
@@ -87,6 +90,7 @@ Gradle
    ├── generate documents
    ├── generate private variants
    └── generate web assets
+```
 
 Gradle became the place where the build logic lived, rather than treating the CI runner itself as the application.
 
@@ -109,6 +113,7 @@ I don't want the security of the public deployment to depend on me remembering t
 
 So the private and public builds are deliberately separate.
 
+```
                   PRIVATE SOURCE
                        │
               ┌────────┴────────┐
@@ -128,6 +133,7 @@ So the private and public builds are deliberately separate.
                                 │
                                 ▼
                            PUBLIC WEBSITE
+```
 
 The important security property is not merely that PII gets removed. It is that the public build never needs to consume the private source.
 
@@ -138,6 +144,7 @@ The sanitization task transforms the private Markdown source into a separate pub
 
 That sanitized source then becomes the input to every public artifact.
 
+```
 Private Markdown
       │
       ▼
@@ -150,6 +157,7 @@ Sanitized Markdown
       ├──► DOCX
       ├──► TXT
       └──► Web
+```
 
 This creates a simple invariant:
 
@@ -202,9 +210,11 @@ Pandoc converts the sanitized Markdown into the required distribution formats:
 
 The important dependency is:
 
+```
 sanitize
     ↓
 generate documents
+```
 
 rather than allowing document generation to bypass the sanitization stage.
 
@@ -229,6 +239,7 @@ The resume itself became the source.
 
 Everything else became an artifact.
 
+```
                  Single Source of Truth
                          │
                          ▼
@@ -251,6 +262,7 @@ Everything else became an artifact.
                                                │
                                                ▼
                                          GitHub Pages
+```
 
 A resume change is now a source change.
 

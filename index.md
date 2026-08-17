@@ -19,7 +19,7 @@ Welcome to my systems engineering and automation portfolio. This space hosts pro
 > #### [**Automated Fleet Mobilization: Bootstrapping 132 Spirent VMs and Engineering Resilient Netplan Routing**](./case-studies/ansible/spirent-onboard.html)
 > *Designing a modular orchestration framework to safely provision a 5-agent security compliance stack across 132 Spirent Landslide VMs.*
 
-> #### [**Infrastructure as Code for Careers: Building an Automated Resume CI/CD Pipeline**](./case-studies/resume-ssot/resume-ssot.html)
+> #### [**Resume as a Build Artifact: Designing an Automated Resume SSoT Pipeline**](./case-studies/resume-ssot/resume-ssot.html)
 > *Treating a resume as infrastructure as code by enforcing a Single Source of Truth (SSoT)*
 
 > #### [**Defending the Pipeline: Building an Offline-First Custom GitHub Actions Runner Image**](./case-studies/runner-optimization/runner-optimization.html)
