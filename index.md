@@ -10,6 +10,12 @@ title: 'Joshua Sternadel | {$js-portfolio}'
 ### Engineering Portfolio & Technical Documentation
 Welcome to my systems engineering and automation portfolio. This space hosts production-grade case studies, architectural deep dives, and live automation proofs of concept. My engineering philosophy focuses on extreme ownership, data-driven security compliance, and building resilient infrastructure within highly volatile environments.
 
+> #### [**Resume as a Build Artifact: Designing an Automated Resume SSoT Pipeline**](./case-studies/resume-ssot/resume-compiler.md)
+> *One Markdown source. Every required format generated automatically.*
+
+> #### [**Resume as a Build Artifact (part 2): Creating a Controlled Resume Build Environment**](./case-studies/resume-ssot/runner-optimization.md)
+> *Eliminating upstream infrastructure dependencies from the resume build path (e.g., Canonical repository outages).*
+
 > #### [**Taming the Wild West: Flatlining 100+ Monthly Vulnerabilities with Zero Budget**](./case-studies/ansible/ansible-iac.html)
 > *Leveraging Ansible to institute automated, idempotent OS patching within a chaotic laboratory environment.*
 
@@ -18,12 +24,6 @@ Welcome to my systems engineering and automation portfolio. This space hosts pro
 
 > #### [**Automated Fleet Mobilization: Bootstrapping 132 Spirent VMs and Engineering Resilient Netplan Routing**](./case-studies/ansible/spirent-onboard.html)
 > *Designing a modular orchestration framework to safely provision a 5-agent security compliance stack across 132 Spirent Landslide VMs.*
-
-> #### [**Resume as a Build Artifact: Designing an Automated Resume SSoT Pipeline**](./case-studies/resume-ssot/resume-ssot.html)
-> *Treating a resume as infrastructure as code by enforcing a Single Source of Truth (SSoT)*
-
-> #### [**Defending the Pipeline: Building an Offline-First Custom GitHub Actions Runner Image**](./case-studies/runner-optimization/runner-optimization.html)
-> *Hardening build pipelines against upstream public mirror and CDN failures (e.g., Canonical repository outages)*
 
 <!-- > #### [**Enterprise Renaissance: Solving the Mundane to Reclaim Human Cognition**](./case-studies/philosophies/renaissance-enterprise.md)
 > *Freeing cognitive capital by applying the structural mechanics of the Renaissance to enterprise operations* -->
