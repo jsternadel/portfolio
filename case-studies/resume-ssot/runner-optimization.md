@@ -7,15 +7,13 @@ categories: [DevOps, Containerization, CI-CD, Infrastructure]
 tags: [docker, github-actions, runner, cicd, optimization, self-hosted]
 ---
 
+One fine day the pipeline was hanging and builds seemed to be stalling but eventually completing with a runtime of 8 min or more.  I asked Gemini what was going on and it mentioned a Canonical CDN/mirror issue had been reported. It was a single incident. As far as I knew, the mirrors had simply had a bad day. But that was enough. The build had demonstrated that an infrastructure failure outside of the project could prevent or materially disrupt a deployment. From my perspective, the build pipeline was compromised. Resilience had failed, and I didn't see a reason to accept that dependency when I could control the build environment myself.
+
 The original GitHub Actions workflow ran directly on a GitHub-hosted Ubuntu 22.04 environment. Each build had to provision the tools required to process and render the resume: Java, Git, rsync, Pandoc, WeasyPrint, fonts, and the other supporting packages.
 
-That meant the build itself depended on `apt` and the Ubuntu package mirrors being healthy.
+That meant `apt` and its upstream package mirrors were part of the deployment path. The eight-minute builds made the consequence visible: the resume build was spending time waiting on infrastructure that had nothing to do with building the resume.
 
-Eventually, that dependency became a problem. APT was spending significant time retrying failed mirrors and falling back through other mirrors before it found one that would actually answer. The build could eventually succeed, but the behavior was inconsistent and the source of the delay had nothing to do with building the resume.
-
-It was a single incident. As far as I knew, the mirrors had simply had a bad day. But that was enough. The build had demonstrated that an infrastructure failure outside of the project could prevent or materially disrupt a deployment. From my perspective, the build pipeline was compromised. Resilience had failed, and I didn't see a reason to accept that dependency when I could control the build environment myself.
-
-I hate inefficiency. My brain does not respond well to a process that wastes time for no useful reason.
+I have a low tolerance for unnecessary failure paths. When an external dependency can affect a process that doesn't actually need that dependency, the system starts to feel wrong to me. Once I know that failure path exists, I want it gone.
 
 So I stopped provisioning the build environment during the build process.
 
@@ -37,7 +35,7 @@ The important part wasn't simply installing those packages once. As I troublesho
 
 > Why spend network time constructing an environment when the build only needs that environment to work?
 
-The Dockerfile became the definition of the build environment. If I eventually need to pin a package version or change one of the dependencies, I control where that decision is made. The build no longer needs to ask APT to construct its environment before it can do its actual work.
+The Dockerfile became the definition of the build environment. If I eventually need to pin a package version or change one of the dependencies, I control where that decision is made. The resume build no longer needs to invoke APT to construct its environment before it can do its actual work.
 
 ---
 
