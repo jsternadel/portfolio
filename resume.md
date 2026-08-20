@@ -28,7 +28,7 @@ Software engineer with 15+ years of experience building enterprise systems acros
 
 ## Professional Experience
 
-### T-Mobile \| Principal Solutions Architect & DevOps Engineer \| 2021–2026
+### T-Mobile \| Senior Software Engineer \| 2021–2026
 
 - Migrated 10+ years of Sprint Jira Data Center metadata and device certification data to Jira Cloud in 3 months with zero downtime for 3,000+ enterprise users, using a data-agnostic PHP framework originally developed at Sprint to hydrate and transform data across remote JSON APIs and local ORM sources.
 - Built Node.js SDKs and Node-RED integrations with Ansible to capture playbook failures and automatically generate structured Jira incidents.
@@ -38,7 +38,7 @@ Software engineer with 15+ years of experience building enterprise systems acros
 - Architected the Branded Experience Portal as an Angular monorepo with reusable component libraries structured for future distribution as independent corporate NPM packages.
 - Served as a technical advisor for high-risk infrastructure changes and enterprise deployments during the Sprint/T-Mobile integration.
 
-### Sprint \| Principal Engineer & Application Developer III \| 2017–2021
+### Sprint \| Application Developer III \| 2017–2021
 
 - Architected **Porcupine**, a RabbitMQ-based event bus that connected Jira workflows with downstream enterprise systems and automated workflow-driven notifications.
 - Designed and built the frontend and workflow engine for a human-in-the-loop SKU automation platform that eliminated a decade-old enterprise bottleneck within 6 months.

@@ -32,6 +32,8 @@ The idea was possible.
 
 At that point, the problem was no longer whether I could automate the process. It was figuring out how to build it properly.
 
+**And this page is itself a build artifact.** The case study you're reading was generated and published by the same automated workflow described here. The case study's Markdown source is maintained alongside the project, transformed as part of the build, and deployed to the public GitHub Pages site. In other words, this page isn't documentation about the system sitting beside the system—it's one of the system's outputs.
+
 ---
 
 ## The Core Idea: One Source, Multiple Artifacts
